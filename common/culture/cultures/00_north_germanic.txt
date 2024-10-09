@@ -168,7 +168,7 @@ icelandic = {
 	martial_custom = martial_custom_male_only
 	traditions = {
 		tradition_things
-		tradition_seafarers
+		tradition_seafaring
 		tradition_legalistic
 	}
 	dlc_tradition = {
