@@ -155,6 +155,8 @@ danish = {
 		10 = caucasian_northern_brown_hair
 		5 = caucasian_northern_dark_hair
 	}
+}
+
 icelandic = {
 	color = { 2 82 156 }
 	created = 930.1.1
@@ -165,13 +167,20 @@ icelandic = {
 	language = language_norse
 	martial_custom = martial_custom_male_only
 	traditions = {
-		tradition_storytellers
-		tradition_poetry
 		tradition_things
-		tradition_maritime_mercantilism
+		tradition_seafarers
 		tradition_legalistic
 	}
-
+	dlc_tradition = {
+		trait = tradition_fp2_ritualised_friendship
+		requires_dlc_flag = the_fate_of_iberia
+		fallback = tradition_poetry
+	}
+	dlc_tradition = {
+		trait = tradition_fp1_northern_stories
+		requires_dlc_flag = the_northern_lords
+		fallback = tradition_storytellers
+	}
 	name_list = name_list_norse
 	
 	coa_gfx = { norwegian_coa_gfx western_coa_gfx }
@@ -184,6 +193,5 @@ icelandic = {
 		15 = caucasian_northern_ginger
 		10 = caucasian_northern_brown_hair
 		5 = caucasian_northern_dark_hair
+		}
 	}
-}
-}
