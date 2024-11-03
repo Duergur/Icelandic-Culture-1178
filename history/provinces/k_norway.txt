@@ -448,11 +448,11 @@
 	culture = norse
 	religion = norse_pagan
 	holding = tribal_holding
+	930.1.1 = {
+		culture = icelandic
+	}
 	1000.1.1 = {
 		religion = catholic
-	}
-	1178.1.1 = {
-		culture = icelandic
 	}
 }
 1 = {	#VESTFIRDIR
@@ -470,11 +470,11 @@
 	culture = norse
 	religion = norse_pagan
 	holding = tribal_holding
+	930.1.1 = {
+		culture = icelandic
+	}
 	1000.1.1 = {
 		religion = catholic
-	}
-	1178.1.1 = {
-		culture = icelandic
 	}
 }
 8773 = {	#VOPNAFJORDUR
@@ -489,11 +489,11 @@
 	culture = norse
 	religion = norse_pagan
 	holding = tribal_holding
+	930.1.1 = {
+		culture = icelandic
+	}
 	1000.1.1 = {
 		religion = catholic
-	}
-	1178.1.1 = {
-		culture = icelandic
 	}
 }
 8772 = {	#HOFN
@@ -505,11 +505,11 @@
 	culture = norse
 	religion = norse_pagan
 	holding = tribal_holding
+	930.1.1 = {
+		culture = icelandic
+	}
 	1000.1.1 = {
 		religion = catholic
-	}
-	1178.1.1 = {
-		culture = icelandic
 	}
 }
 8774 = {	#KLAUSTUR
