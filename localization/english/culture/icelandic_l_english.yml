@@ -1,4 +1,5 @@
 ﻿l_english:
-icelandic:0 "Icelander"
-icelandic_prefix:0 "Icelandic"
-icelandic_collective_noun:1 "Icelanders"
+#Icelandic culture, moved to overwriting file
+#icelandic:0 "Icelander"
+#icelandic_prefix:0 "Icelandic"
+#icelandic_collective_noun:1 "Icelanders"
