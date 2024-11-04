@@ -1,3 +1,7 @@
 ﻿l_english:
 dynn_Haukadalur: "Haukdælir"
 dynn_Oddi: "Oddverjar"
+#Icelandic Culture
+icelandic:0 "Icelander"
+icelandic_prefix:0 "icelander"
+icelandic_collective_noun:1 "Icelanders"
