@@ -1,10 +1,7 @@
-version="1.2"
+version="1.3"
 tags={
-	"Alternative History"
 	"Culture"
-	"Gameplay"
 	"Historical"
 }
 name="Icelandic Culture"
-supported_version="1.14.0.1"
-remote_file_id="3345971845"
+supported_version="1.16.2.3"
