@@ -156,7 +156,7 @@
 	
 	male_names = {
 	Axel-ICE Aron-ICE 'arni Ari-ICE Arnar-ICE Arn'or A-dalbergur A-dalbj-Orn A-dalsteinn Alfre-d  Almar Alrekur Andri-ICE Arnbj-Orn Arnar Arnaldur Arnfinnur Arngr'imur Arnlaugur Arnoddur Arn'ulfur Atli Au-dun 
-	#'asbj-Orn 'asl'akur 'astr'ikur 'ast-P'or 'an
+	'asbj-Orn 'asl'akur 'astr'ikur 'ast-P'or 'an
 	#Baldur Bjartmar  B'ot'olfur Bj-Orn B'ar-dur Bjarmar Bjarnfre-dur Bjarki Bjarnhé-dinn Bjarnleifur Bjarnsteinn Bj'olfur Bj-Org'olfur B-O-dvar Bolli Brandur Breki Brynjar Brynj'olfur Bragi
 	#Da-di Dagur Dalur Dav'i-d Dagfinnur Dan'iel Dufg'us Duf-Pakur D'yri  
 	#Eir'ikur El'is Elvar Erlendur Eyj'olfur Eysteinn Eyvindur Ey-P'or Eil'ifur
