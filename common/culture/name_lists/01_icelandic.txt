@@ -155,65 +155,65 @@
 	}
 	
 	male_names = {
-	#Axel Aron Árni Ari Arnar Arnór Aðalbergur Aðalbjörn Aðalsteinn Alfreð  Almar Alrekur Andri Arnbjörn Arnar Arnaldur Arnfinnur Arngrímur Arnlaugur Arnoddur Arnúlfur Atli Auðun 
-	#Ásbjörn Áslákur Ástríkur Ástþór Án
-	#Baldur Bjartmar  Bótólfur Björn Bárður Bjarmar Bjarnfreður Bjarki Bjarnhéðinn Bjarnleifur Bjarnsteinn Bjólfur Björgólfur Böðvar Bolli Brandur Breki Brynjar Brynjólfur Bragi
-	#Daði Dagur Dalur Davíð Dagfinnur Daníel Dufgús Dufþakur Dýri  
-	#Eiríkur Elís Elvar Erlendur Eyjólfur Eysteinn Eyvindur Eyþór Eilífur
-	#Falur Frímann Fannar Fenrir Fífill Finnbjörn Finnbogi Finnur Fjalar Fjölnir Flóki Freyr Fylkir Fróði 
-	#Gabríel Guðmundur Guðbjörn Galdur Garðar Garpur Gaukur Gauti Geir Gísli Gissur Glúmur Gnúpur Grettir Grímur Gunnar Guttormur Gylfi
-	#Hlynur Hilmar Hængur Hafberg Hafgrímur Hafliði Hafsteinn Hafþór Hákon Hálfdán Hallbjörn Hjalti Hrólfur Halldór Hallgeir Hallgrímur Hannes Hans Haraldur Hauksteinn Haukur Hávarður Héðinn Heiðar Heimir Helgi Herjólfur Hermann Hersteinn Hinrik Hjálmtýr Hjálmur Hjálmþór Hjörleifur Hjörtur Hjörvar Hnikar Hólmbert Hólmgeir Hrafn Hrafnbergur Hrafnkell Hreggviður Hreiðar Hringur Hróar Hróaldur Hróbjartur Hrói Hugi Huginn 
-	#Indriði Ingibergur Ingibjartur Ingimar Ingimundur Ingmar Ingólfur Ingvaldur Ingvar Ingvi  
-	#Ísak Ími Ísidór Ísleifur Ívar 
-	#Jón Jóhann Jóhannes Jónas Jósafat Játvarður Jens Jóakim Jóel Jómundur Jónatan Jörundur Jósúa Jarfi Járnsíða Játmundur Jökull Jóngeir Jörfi Júlían 
-	#Kolbeinn Kári Karl Ketilbjörn Ketill Kjartan Kjarval Kjalar Klængur Klemens Knútur Knörr Koðrán Kolbjörn Kolfinnur Kolgrímur Kolmar	Kolur Konráð Kormákur Kristberg Kristbjörn Kristfinnur Kristinn Kristján Kristleifur Kristófer Krummi Kveldúlfur 
-	#Láki Lárus Laugi Leifur Logi Leó Ljótur Ljúfur Loðmundur Loftur Loki Lúðvík Lúkas 
-	#Magnús Magnþór Markús Mattías Mikael "Jón Múli" Margeir Melkólmur Mímir Moli Mörður Mosi Múli Muninn Myrktýr Mýrkjartan  
-	#Narfi Natan Náttfari Náttmörður Nátthrafn Níels Nikulás Njáll Njörður Nökkvi Norðmann 
-	#Oddi Oddgeir Oddfreyr Oddbjörn Oddbergur Oddleifur Oddsteinn Oddþór Orri Ormur Ottó
-	#Ófeigur Ólafur Óðinn Ólíver Ómar Óskar Ósvífur Óttar Órækja
-	#Páll Patrekur Pétur 
-	#Ráðvarður Reynir Refur Rafn Rafnkell Ragnar Ríkarður Ríkharður Róbert Rögnvaldur Rögnvar Rökkvi Rósinkrans Röskvi Rúdólf Rúnar Ranúr Runólfur Rúrik 
-	#Snorri Sturla Stefán Sigurður Sighvatur Símon Svarthöfði Sindri Sæmundur Steinríkur Sæberg Sæbjörn Sæmundur Sævar Sæþór Sigbjartur Sigbjörn Sigfinnur Sigfús Siggeir Sigmar Sigmundur Sigtryggur Sigurbaldur Sigurjón Sigurþór Skarphéðinn Skeggi Skjöldur Skúli Smári Snæbjörn Snæþór Snjólfur Sólberg Sören Starkaður Stígur Sturlaugur Styrbjörn Styrkár Styrmir Sumarliði Svalur Svanur Svanþór Svavar Sveinbjörn Sveinn Sverrir  
-	#Tumi Tjörvi Tjörfi Tómas Tristan Tryggvi Torfi Tarfur Teitur Tímon Týr 
+	Axel-ICE Aron-ICE 'arni Ari-ICE Arnar-ICE Arn'or A-dalbergur A-dalbj-Orn A-dalsteinn Alfre-d  Almar Alrekur Andri-ICE Arnbj-Orn Arnar Arnaldur Arnfinnur Arngr'imur Arnlaugur Arnoddur Arn'ulfur Atli Au-dun 
+	#'asbj-Orn 'asl'akur 'astr'ikur 'ast-P'or 'an
+	#Baldur Bjartmar  B'ot'olfur Bj-Orn B'ar-dur Bjarmar Bjarnfre-dur Bjarki Bjarnhé-dinn Bjarnleifur Bjarnsteinn Bj'olfur Bj-Org'olfur B-O-dvar Bolli Brandur Breki Brynjar Brynj'olfur Bragi
+	#Da-di Dagur Dalur Dav'i-d Dagfinnur Dan'iel Dufg'us Duf-Pakur D'yri  
+	#Eir'ikur El'is Elvar Erlendur Eyj'olfur Eysteinn Eyvindur Ey-P'or Eil'ifur
+	#Falur Fr'imann Fannar Fenrir F'ifill Finnbj-Orn Finnbogi Finnur Fjalar Fj-Olnir Fl'oki Freyr Fylkir Fr'o-di 
+	#Gabr'iel Gu-dmundur Gu-dbj-Orn Galdur Gar-dar Garpur Gaukur Gauti Geir G'isli Gissur Gl'umur Gn'upur Grettir Gr'imur Gunnar Guttormur Gylfi
+	#Hlynur Hilmar Haengur Hafberg Hafgr'imur Hafli-di Hafsteinn Haf-P'or H'akon H'alfd'an Hallbj-Orn Hjalti Hr'olfur Halld'or Hallgeir Hallgr'imur Hannes Hans Haraldur Hauksteinn Haukur H'avar-dur Hé-dinn Hei-dar Heimir Helgi Herj'olfur Hermann Hersteinn Hinrik Hj'almt'yr Hj'almur Hj'alm-P'or Hj-Orleifur Hj-Ortur Hj-Orvar Hnikar H'olmbert H'olmgeir Hrafn Hrafnbergur Hrafnkell Hreggvi-dur Hrei-dar Hringur Hr'oar Hr'oaldur Hr'objartur Hr'oi Hugi Huginn 
+	#Indri-di Ingibergur Ingibjartur Ingimar Ingimundur Ingmar Ing'olfur Ingvaldur Ingvar Ingvi  
+	#'isak 'imi 'isid'or 'isleifur 'ivar 
+	#J'on J'ohann J'ohannes J'onas J'osafat J'atvar-dur Jens J'oakim J'oel J'omundur J'onatan J-Orundur J'os'ua Jarfi J'arns'i-da J'atmundur J-Okull J'ongeir J-Orfi J'ul'ian 
+	#Kolbeinn K'ari Karl Ketilbj-Orn Ketill Kjartan Kjarval Kjalar Klaengur Klemens Kn'utur Kn-Orr Ko-dr'an Kolbj-Orn Kolfinnur Kolgr'imur Kolmar	Kolur Konr'a-d Korm'akur Kristberg Kristbj-Orn Kristfinnur Kristinn Kristj'an Kristleifur Krist'ofer Krummi Kveld'ulfur 
+	#L'aki L'arus Laugi Leifur Logi Le'o Lj'otur Lj'ufur Lo-dmundur Loftur Loki L'u-dv'ik L'ukas 
+	#Magn'us Magn-P'or Mark'us Matt'ias Mikael "J'on M'uli" Margeir Melk'olmur M'imir Moli M-Or-dur Mosi M'uli Muninn Myrkt'yr M'yrkjartan  
+	#Narfi Natan N'attfari N'attm-Or-dur N'atthrafn N'iels Nikul'as Nj'all Nj-Or-dur N-Okkvi Nor-dmann 
+	#Oddi Oddgeir Oddfreyr Oddbj-Orn Oddbergur Oddleifur Oddsteinn Odd-P'or Orri Ormur Ott'o
+	#'ofeigur 'olafur 'o-dinn 'ol'iver 'omar 'oskar 'osv'ifur 'ottar 'oraekja
+	#P'all Patrekur Pétur 
+	#R'a-dvar-dur Reynir Refur Rafn Rafnkell Ragnar R'ikar-dur R'ikhar-dur R'obert R-Ognvaldur R-Ognvar R-Okkvi R'osinkrans R-Oskvi R'ud'olf R'unar Ran'ur Run'olfur R'urik 
+	#Snorri Sturla Stef'an Sigur-dur Sighvatur S'imon Svarth-Of-di Sindri Saemundur Steinr'ikur Saeberg Saebj-Orn Saemundur Saevar Sae-P'or Sigbjartur Sigbj-Orn Sigfinnur Sigf'us Siggeir Sigmar Sigmundur Sigtryggur Sigurbaldur Sigurj'on Sigur-P'or Skarphé-dinn Skeggi Skj-Oldur Sk'uli Sm'ari Snaebj-Orn Snae-P'or Snj'olfur S'olberg S-Oren Starka-dur St'igur Sturlaugur Styrbj-Orn Styrk'ar Styrmir Sumarli-di Svalur Svanur Svan-P'or Svavar Sveinbj-Orn Sveinn Sverrir  
+	#Tumi Tj-Orvi Tj-Orfi T'omas Tristan Tryggvi Torfi Tarfur Teitur T'imon T'yr 
 	#Unnar Ubbi Unnsteinn 
-	#Úlfhéðinn Úlfgrímur Úlfljótur Úlfur Úlrik 
-	#Valdimar Végestur Vestgeir  Valtýr Vébjörn Vésteinn Veturliði Viðar Víðir Víglundur Vígmundur Völundur  Valmundur Vigfús Vignir Viktor Völundur Vörður 
+	#'ulfhé-dinn 'ulfgr'imur 'ulflj'otur 'ulfur 'ulrik 
+	#Valdimar Végestur Vestgeir  Valt'yr Vébj-Orn Vésteinn Veturli-di Vi-dar V'i-dir V'iglundur V'igmundur V-Olundur  Valmundur Vigf'us Vignir Viktor V-Olundur V-Or-dur 
 	#Ylur Ymir Yngvar Yngvi Yrkill 
-	#Ýmir 
-	Th'or Th'orkell Th'or-dur Thangbrandur Thengill Thi-drik Thj'alfi Th'orarinn Th'orberg Th'orbergur Thorbergur Th'orbjarni Thorbj-orn Th'orbj-orn Thorbrandur Thorfinnur Thorgar-dur Thorgautur Thorgeir Thorgestur Thorgils-ICE Thorg'isli Thorgn'yr Th'orgr'imur Th'orhannes Th'orhallur Thorl'akur Thorleifur Th'orleifur Thorm'o-dur Th'orormur Thorri Thorsteinn Th'orsteinn Thorvaldur-ICE Thr'ainn Thr'andur Thr-ostur Thyrnir 
+	#'ymir 
+	Th'or Th'orkell Th'or-dur Thangbrandur Thengill Thi-drik Thj'alfi Th'orarinn Th'orberg Th'orbergur Thorbergur Th'orbjarni Thorbj-Orn Th'orbj-Orn Thorbrandur Thorfinnur Thorgar-dur Thorgautur Thorgeir Thorgestur Thorgils-ICE Thorg'isli Thorgn'yr Th'orgr'imur Th'orhannes Th'orhallur Thorl'akur Thorleifur Th'orleifur Thorm'o-dur Th'orormur Thorri Thorsteinn Th'orsteinn Thorvaldur-ICE Thr'ainn Thr'andur Thr-Ostur Thyrnir 
 	Aegir Aevar
 	}
 	female_names = {
-	#Auður Aðalbjörg Aðaldís Aðalfríður Aðalheiður Aðalveig 	Agla Agnes Alba Alda Aldís Alfa Alma Alva Amalía Amanda Amelía Amilía Andrea Aníta Anna Ardís Arey Arinbjörg Arnbjörg Arnborg Arndís Arney Arnfinna Arnfríður Arnhildur Arnheiður Arnlaug Arnþóra Arnþrúður Auðbjörg Auðbjört Auðdís Auðlín Auðný Auðrún 
-	#Ágústa Álfdís Álfey Álfgerður Álfheiður Álfhildur Álfrún Álfsól Árbjörg Árbjört Árdís Árlaug Árna Árndís Árney Árnheiður Árnína Árný Ársæl Ársól Árveig Árþóra Ása Ásbjörg Ásdís Ásfríður Ásgerður Áshildur Áslaug Ásleif Ásrós Ásrún Ásta Ástbjörg Ástdís Ástfríður Ástgerður Ásthildur Ástríður Ástrós Ástrún Ástveig Ástþrúður Ásvör 
-	#Baldey Baldrún Bára Bergdís Bergey Bergfríður Berghildur Berglaug Bergljót Berglind Bergrós Bergrún Bergdís Birgitta Birna Birta Bjargey Bjargheiður Bjarghildur Bjarkey Bjarndís Bjarney Bjarnfríður Bjarnheiður Bjarnhildur Bjarnþóra Bjarnþrúður Bjartey Björg Björgheiður Björghildur Björk Björt Boghildur Borg Borghildur Braghildur Braga Bríet Bryndís Brynhildur Brynja 
-	#Daðey Dagbjörg Dagbjört Dagfríður Dagheiður Dagmar Dagmey Dagný Dagrún Daldís Dalrós Daney Danfríður Danheiður Danhildur Diljá Dimma Dís Dimmey Dísa Dögg Dóa Dómhildur Drífa Dröfn Dúfa Dúna Dýrborg Dýrfinna Dýrleif 
-	#Edda Eiðný Eiðunn Eik Eilíf Einrún Eir Eirný Eirdís Eirún Eivör Eldey Eldbjörg Elfa Elín Elíná Elínbjörg Elínbjört Elínborg Elínrós Elísa Elísabet Ellen Elley Ellisif Ellý Elsa Elsabet Elsý Embla Emilíanna Emma Engilbjört Engilráð Enja Enóla Erlín Erna Esja Ester Eva Eybjörg Eydís Eyfríður Eygló Eyja Eyleif Eyrós Eyrún Eyvör Eyþrúður Eyþóra 
-	#Fanndís Fanney Fannlaug Fía Fífa Finnbjörg Finnbjörk Finnborg Finndís Fjóla Fönn Frán Freyja Fríða 
-	#Gauthildur Grélöð Geirbjörg Geirdís Geirhildur Geirlaug Geirþrúður Gerða Gerður Gestheiður Gestný Gestrún Gígja Gísley Gló Glóð Glódís Glóey Góa Gríma Grímey Grímheiður Grímhildur Gróa Guðbjörg Guðbjört Guðdís Guðfinna	Guðfríður Guðlaug Guðmunda Guðný Guðrún Guðríður Gullbrá Gunnbjörg Gunndís Gunnfinna Gunnlaug Gunnrún Gunnur Gunnvör Gunnveig Gunnþórunn Gyða Gytta 
-	#Haddý Hafbjörg Hafborg Hafdís Hafrós Hafrún Hafþóra Halla Hallbera Hallborg Halldís Halldóra Hallfríður Hallgerður Hallgunnur Hallrún Hallveig Hallvör Hanna Harpa Heba Heiða Heiðbjörg Heiðbjörk Heiðbjört Heiðbrá Heiðdís Heiðrós Heiður Heiðrún Hekla Helga Hella Hera Herdís Herborg Herbjört Herfríður Herlaug Hervör Herþrúður Hilda Hildibjörg Hildigerður Hildigunnur Hildur Hildisif Hilma Hjálmrós Hjálmdís Hjaltey Hjördís Hjörfríður Hjörleif Hlaðgerður Hlédís Hlín Hlíf Hólmbjörg Hólmdís Hólmfríður Hrafnborg Hrafndís Hrafngerður Hrafnheiður Hrafnhildur Hrafnlaug Hrafnrún Hrafntinna Hraundís Hrefna Hreindís Hrólfdís Hrönn Hrund Hugdís Hugljúf Hugrún Hulda Huldís Huldrún Húndís Húngerður Húnbjörg Hvönn 
-	#Iða Iðunn Inga Ingdís Ingey Ingheiður Ingibjörg Ingibjört Ingiborg Ingifríður Ingigerður Ingimunda Ingiveig Ingunn Ingveldur Irja Irma Irpa 
-	#Ír Írena Íris Írunn Ísabella Ísadóra Ísafold Ísbjörg Ísdís Ísey Ísfold Ísgerður	Íshildur Íslaug Ísleif Ísól Ísold Ísrún Ísveig Íva 
-	#Járnbrá Járngerður Jarþrúður Jódís Jófríður Jökla Jökulrós Jóna Jónanna Jónasína Jónbjörg Jónbjört Jóndís Jóney Jónfríður Jónhildur Jónína Jóra Jórlaug Jórunn Jósefína Júlía Júlíanna Júnía 
-	#Kaðlín Kaja Kara Karen Karítas Karlotta Karólína Katla Katrín Ketilbjörg Ketilfríður Ketilríður Kirstín Kjalvör Klara Kolbjörg Kolbrá Kolbrún Koldís Kolfinna Kolfreyja Kolka Kráka Kría Kristbjörg Kristborg Kristey Kristín Kristný Kristrún Kristrós Kristveig 
-	#Laugey Lauga	Laufey Laufheiður Laufhildur Lea Líf Lífdís Lilja Linda Líney Lísa Ljósbjörg Ljósbrá Lóa Loftveig Logey Lotta Lovísa Lukka Lyngheiður
-	#Magndís Magðalena Magnea Magney Magnfríður Magnhildur Maísól Málfríður Málhildur Málmfríður Máney Marfríður Margrét Margunnur María Maríuerla Mía Marselína Marsibil Marta Matthildur Melrós Mist Mjalldís Mjallhvít Mjöll Móeiður Móey Móheiður Mörk Mýra 
-	#Nanna Narfey Lauga Náttsól Nína Nótt Nýbjörg 
-	#Odda Oddbjörg Oddfreyja Oddfríður Oddhildur Oddlaug Oddný Oddrún Oddveig Oddvör Ormheiður Ormhildur Otkatla
-	#Ólafía Ólína Ólöf Ósk 
-	#Pála Páldís Pálfríður Pálína Pálrún Perla 
-	#Rósanna Rannveig Ráðhildur Rafney Rafnhildur Ragna Ragnbjörg Ragney Ragnfríður Ragnheiður Ragnhildur Rakel Rán Rannveig Reyndís Reynheiður Ríkey Rögn Rökkva Röskva Rósamunda Rósbjörg Rósborg Rósey Róshildur Róslind Rún Rúndís Rut 
-	#Sæbjörg Silja Sæhildur Sæbjört Sædís Sæfríður Sæhildur Sælaug Sæmunda Sæsól Sæunn Sævör Saga Salbjörg Saldís Salka Sandra Sara Selma Sesselja Sía Sif Sigdís Sigfríður Sigmunda Signý Sigríður Sigrún Sigurást Sigurbjörg Sigurdís Sigurósk Sigurrós Sigþóra Silfrún Silvía "Silvía Nótt" Sirrý Sjöfn Skuld Snæbjört Snæbjörg Snæbrá Snæborg Snædís Snæfríður Snælaug Snærós Snærún Snjófríður Snjólaug Snót Soffía Sól Sólbjörg Sólbjört Sólborg Sólbrá Sólrún Sóldís Sóley Sólhildur Sólveig Stefanía Steingerður Steinvör Steinunn Stígrún Stjarna Styrgerður Sunneva Svala Svanbjörg Svana Svanborg Svandís Svanfríður Svanheiður Svanhildur Svanhvít Svava Svafa Sveindís Sveinhildur Sveinlaug Svanþrúður 
-	#Thelma Tinna Torfhildur Torfey Tófa 
-	#Ugla Una Unnur Unndís Unnbjörg Urður
-	#Úlfdís Úlfheiður Úlfhildur Úlfrún Úrsúla
-	#Valdís Valey Védís Vigdís Vilborg Vildís Viktoría Vilgerður Vilhelmína Vordís 
+	#Au-dur A-dalbj-Org A-dald'is A-dalfr'i-dur A-dalhei-dur A-dalveig 	Agla Agnes Alba Alda Ald'is Alfa Alma Alva Amal'ia Amanda Amel'ia Amil'ia Andrea An'ita Anna Ard'is Arey Arinbj-Org Arnbj-Org Arnborg Arnd'is Arney Arnfinna Arnfr'i-dur Arnhildur Arnhei-dur Arnlaug Arn-P'ora Arn-Pr'u-dur Au-dbj-Org Au-dbj-Ort Au-dd'is Au-dl'in Au-dn'y Au-dr'un 
+	#'ag'usta 'alfd'is 'alfey 'alfger-dur 'alfhei-dur 'alfhildur 'alfr'un 'alfs'ol 'arbj-Org 'arbj-Ort 'ard'is 'arlaug 'arna 'arnd'is 'arney 'arnhei-dur 'arn'ina 'arn'y 'arsael 'ars'ol 'arveig 'ar-P'ora 'asa 'asbj-Org 'asd'is 'asfr'i-dur 'asger-dur 'ashildur 'aslaug 'asleif 'asr'os 'asr'un 'asta 'astbj-Org 'astd'is 'astfr'i-dur 'astger-dur 'asthildur 'astr'i-dur 'astr'os 'astr'un 'astveig 'ast-Pr'u-dur 'asv-Or 
+	#Baldey Baldr'un B'ara Bergd'is Bergey Bergfr'i-dur Berghildur Berglaug Berglj'ot Berglind Bergr'os Bergr'un Bergd'is Birgitta Birna Birta Bjargey Bjarghei-dur Bjarghildur Bjarkey Bjarnd'is Bjarney Bjarnfr'i-dur Bjarnhei-dur Bjarnhildur Bjarn-P'ora Bjarn-Pr'u-dur Bjartey Bj-Org Bj-Orghei-dur Bj-Orghildur Bj-Ork Bj-Ort Boghildur Borg Borghildur Braghildur Braga Br'iet Brynd'is Brynhildur Brynja 
+	#Da-dey Dagbj-Org Dagbj-Ort Dagfr'i-dur Daghei-dur Dagmar Dagmey Dagn'y Dagr'un Dald'is Dalr'os Daney Danfr'i-dur Danhei-dur Danhildur Dilj'a Dimma D'is Dimmey D'isa D-Ogg D'oa D'omhildur Dr'ifa Dr-Ofn D'ufa D'una D'yrborg D'yrfinna D'yrleif 
+	#Edda Ei-dn'y Ei-dunn Eik Eil'if Einr'un Eir Eirn'y Eird'is Eir'un Eiv-Or Eldey Eldbj-Org Elfa El'in El'in'a El'inbj-Org El'inbj-Ort El'inborg El'inr'os El'isa El'isabet Ellen Elley Ellisif Ell'y Elsa Elsabet Els'y Embla Emil'ianna Emma Engilbj-Ort Engilr'a-d Enja En'ola Erl'in Erna Esja Ester Eva Eybj-Org Eyd'is Eyfr'i-dur Eygl'o Eyja Eyleif Eyr'os Eyr'un Eyv-Or Ey-Pr'u-dur Ey-P'ora 
+	#Fannd'is Fanney Fannlaug F'ia F'ifa Finnbj-Org Finnbj-Ork Finnborg Finnd'is Fj'ola F-Onn Fr'an Freyja Fr'i-da 
+	#Gauthildur Grél-O-d Geirbj-Org Geird'is Geirhildur Geirlaug Geir-Pr'u-dur Ger-da Ger-dur Gesthei-dur Gestn'y Gestr'un G'igja G'isley Gl'o Gl'o-d Gl'od'is Gl'oey G'oa Gr'ima Gr'imey Gr'imhei-dur Gr'imhildur Gr'oa Gu-dbj-Org Gu-dbj-Ort Gu-dd'is Gu-dfinna	Gu-dfr'i-dur Gu-dlaug Gu-dmunda Gu-dn'y Gu-dr'un Gu-dr'i-dur Gullbr'a Gunnbj-Org Gunnd'is Gunnfinna Gunnlaug Gunnr'un Gunnur Gunnv-Or Gunnveig Gunn-P'orunn Gy-da Gytta 
+	#Hadd'y Hafbj-Org Hafborg Hafd'is Hafr'os Hafr'un Haf-P'ora Halla Hallbera Hallborg Halld'is Halld'ora Hallfr'i-dur Hallger-dur Hallgunnur Hallr'un Hallveig Hallv-Or Hanna Harpa Heba Hei-da Hei-dbj-Org Hei-dbj-Ork Hei-dbj-Ort Hei-dbr'a Hei-dd'is Hei-dr'os Hei-dur Hei-dr'un Hekla Helga Hella Hera Herd'is Herborg Herbj-Ort Herfr'i-dur Herlaug Herv-Or Her-Pr'u-dur Hilda Hildibj-Org Hildiger-dur Hildigunnur Hildur Hildisif Hilma Hj'almr'os Hj'almd'is Hjaltey Hj-Ord'is Hj-Orfr'i-dur Hj-Orleif Hla-dger-dur Hléd'is Hl'in Hl'if H'olmbj-Org H'olmd'is H'olmfr'i-dur Hrafnborg Hrafnd'is Hrafnger-dur Hrafnhei-dur Hrafnhildur Hrafnlaug Hrafnr'un Hrafntinna Hraund'is Hrefna Hreind'is Hr'olfd'is Hr-Onn Hrund Hugd'is Huglj'uf Hugr'un Hulda Huld'is Huldr'un H'und'is H'unger-dur H'unbj-Org Hv-Onn 
+	#I-da I-dunn Inga Ingd'is Ingey Inghei-dur Ingibj-Org Ingibj-Ort Ingiborg Ingifr'i-dur Ingiger-dur Ingimunda Ingiveig Ingunn Ingveldur Irja Irma Irpa 
+	#'ir 'irena 'iris 'irunn 'isabella 'isad'ora 'isafold 'isbj-Org 'isd'is 'isey 'isfold 'isger-dur	'ishildur 'islaug 'isleif 'is'ol 'isold 'isr'un 'isveig 'iva 
+	#J'arnbr'a J'arnger-dur Jar-Pr'u-dur J'od'is J'ofr'i-dur J-Okla J-Okulr'os J'ona J'onanna J'onas'ina J'onbj-Org J'onbj-Ort J'ond'is J'oney J'onfr'i-dur J'onhildur J'on'ina J'ora J'orlaug J'orunn J'osef'ina J'ul'ia J'ul'ianna J'un'ia 
+	#Ka-dl'in Kaja Kara Karen Kar'itas Karlotta Kar'ol'ina Katla Katr'in Ketilbj-Org Ketilfr'i-dur Ketilr'i-dur Kirst'in Kjalv-Or Klara Kolbj-Org Kolbr'a Kolbr'un Kold'is Kolfinna Kolfreyja Kolka Kr'aka Kr'ia Kristbj-Org Kristborg Kristey Krist'in Kristn'y Kristr'un Kristr'os Kristveig 
+	#Laugey Lauga	Laufey Laufhei-dur Laufhildur Lea L'if L'ifd'is Lilja Linda L'iney L'isa Lj'osbj-Org Lj'osbr'a L'oa Loftveig Logey Lotta Lov'isa Lukka Lynghei-dur
+	#Magnd'is Mag-dalena Magnea Magney Magnfr'i-dur Magnhildur Ma'is'ol M'alfr'i-dur M'alhildur M'almfr'i-dur M'aney Marfr'i-dur Margrét Margunnur Mar'ia Mar'iuerla M'ia Marsel'ina Marsibil Marta Matthildur Melr'os Mist Mjalld'is Mjallhv'it Mj-Oll M'oei-dur M'oey M'ohei-dur M-Ork M'yra 
+	#Nanna Narfey Lauga N'atts'ol N'ina N'ott N'ybj-Org 
+	#Odda Oddbj-Org Oddfreyja Oddfr'i-dur Oddhildur Oddlaug Oddn'y Oddr'un Oddveig Oddv-Or Ormhei-dur Ormhildur Otkatla
+	#'olaf'ia 'ol'ina 'ol-Of 'osk 
+	#P'ala P'ald'is P'alfr'i-dur P'al'ina P'alr'un Perla 
+	#R'osanna Rannveig R'a-dhildur Rafney Rafnhildur Ragna Ragnbj-Org Ragney Ragnfr'i-dur Ragnhei-dur Ragnhildur Rakel R'an Rannveig Reynd'is Reynhei-dur R'ikey R-Ogn R-Okkva R-Oskva R'osamunda R'osbj-Org R'osborg R'osey R'oshildur R'oslind R'un R'und'is Rut 
+	#Saebj-Org Silja Saehildur Saebj-Ort Saed'is Saefr'i-dur Saehildur Saelaug Saemunda Saes'ol Saeunn Saev-Or Saga Salbj-Org Sald'is Salka Sandra Sara Selma Sesselja S'ia Sif Sigd'is Sigfr'i-dur Sigmunda Sign'y Sigr'i-dur Sigr'un Sigur'ast Sigurbj-Org Sigurd'is Sigur'osk Sigurr'os Sig-P'ora Silfr'un Silv'ia "Silv'ia N'ott" Sirr'y Sj-Ofn Skuld Snaebj-Ort Snaebj-Org Snaebr'a Snaeborg Snaed'is Snaefr'i-dur Snaelaug Snaer'os Snaer'un Snj'ofr'i-dur Snj'olaug Sn'ot Soff'ia S'ol S'olbj-Org S'olbj-Ort S'olborg S'olbr'a S'olr'un S'old'is S'oley S'olhildur S'olveig Stefan'ia Steinger-dur Steinv-Or Steinunn St'igr'un Stjarna Styrger-dur Sunneva Svala Svanbj-Org Svana Svanborg Svand'is Svanfr'i-dur Svanhei-dur Svanhildur Svanhv'it Svava Svafa Sveind'is Sveinhildur Sveinlaug Svan-Pr'u-dur 
+	#Thelma Tinna Torfhildur Torfey T'ofa 
+	#Ugla Una Unnur Unnd'is Unnbj-Org Ur-dur
+	#'ulfd'is 'ulfhei-dur 'ulfhildur 'ulfr'un 'urs'ula
+	#Vald'is Valey Véd'is Vigd'is Vilborg Vild'is Viktor'ia Vilger-dur Vilhelm'ina Vord'is 
 	#Ylfa Ylja Ylva Yrsa Yrja 
 	'Yr
-	#Þorlaug Þjóðbjörg Þjóðhildur Þóra Þóranna Þórbjörg Þórdís Þórey Þorfinna Þórfríður Þorgerður Þórgunnur Þórhanna Þórhildur Þórkatla Þórlaug Þórunn Þórveig Þrá Þórvör Þrúður Þúfa Þuríður Þórvör 
-	#Æsa Ævör Æsgerður Ægileif 
-	#Ögmunda Ölveig Örk Ösp Ölrún
+	#-Porlaug -Pj'o-dbj-Org -Pj'o-dhildur -P'ora -P'oranna -P'orbj-Org -P'ord'is -P'orey -Porfinna -P'orfr'i-dur -Porger-dur -P'orgunnur -P'orhanna -P'orhildur -P'orkatla -P'orlaug -P'orunn -P'orveig -Pr'a -P'orv-Or -Pr'u-dur -P'ufa -Pur'i-dur -P'orv-Or 
+	#aesa aev-Or aesger-dur aegileif 
+	#-Ogmunda -Olveig -Ork -Osp -Olr'un
 	}
 	
 	dynasty_of_location_prefix = "dynnp_af"

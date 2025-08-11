@@ -168,7 +168,7 @@
 }
 
 202024 = { #Icelandic
-	name = "J'on'"
+	name = "J'on"
 	# AKA: Jon
 	dynasty = 101892
 	martial = 6
