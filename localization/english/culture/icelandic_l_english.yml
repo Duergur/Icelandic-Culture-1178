@@ -9,6 +9,7 @@ name_list_icelandic:1 "Icelandic Names"
 #Karlkyn
 Aevar:1 "Ævar"
 Aegir:0 "Ægir"
+
 Th'or:1 "Þór"
 Th'orkell:1 "Þórkell"
 Th'or-dur:1 "Þórður"
@@ -49,5 +50,14 @@ Thr'andur:1 "Þrándur"
 Thr-ostur:1 "Þröstur"
 Thyrnir:1 "Þyrnir"
 
+#íslendingar úr characters file
+J'on:1 "Jón"
+P'all:1 "Páll"
+Saemundur:1 "Sæmundur"
+Isleifur-ICE:1 "Ísleifur"
+
 #Kvenkyn
 'Yr:1 "Ýr"
+Ragnheidur:1 "Ragnheiður"
+Sigridur:1 "Sigríður"
+Halldora-ICE:1 "Halldóra"

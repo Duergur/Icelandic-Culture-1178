@@ -63,7 +63,7 @@
 }
 
 202012 = {
-	name = "Thorvaldur"
+	name = "Thorvaldur-ICE"
 	dynasty = 101891
 	martial = 6
 	diplomacy = 8
@@ -103,7 +103,7 @@
 }
 
 202018 = {
-	name = "ThorlA_kur"
+	name = "Thorl'akur"
 	# AKA: Thorlakur
 	dynasty = 101908
 	martial = 6
@@ -126,7 +126,7 @@
 }
 
 202019 = {
-	name = "Ragnheid"
+	name = "Ragnheidur"
 	female = yes
 	martial = 4
 	diplomacy = 5
@@ -147,7 +147,7 @@
 }
 
 202023 = {
-	name = "Sigrid"
+	name = "Sigridur"
 	female = yes
 	dynasty = 101892
 	martial = 5
@@ -168,7 +168,7 @@
 }
 
 202024 = { #Icelandic
-	name = "JO_n"
+	name = "J'on'"
 	# AKA: Jon
 	dynasty = 101892
 	martial = 6
@@ -197,7 +197,7 @@
 }
 
 202025 = {
-	name = "Halldora"
+	name = "Halldora-ICE"
 	female = yes
 	martial = 5
 	diplomacy = 8
@@ -237,7 +237,7 @@
 }
 
 202028 = {
-	name = "SE_mund"
+	name = "Saemundur"
 	# AKA: Saemund
 	dynasty = 101892
 	martial = 4
@@ -261,7 +261,7 @@
 }
 
 202029 = {
-	name = "PA_ll"
+	name = "P'all"
 	# AKA: Pall
 	dynasty = 101892
 	martial = 6
@@ -286,7 +286,7 @@
 
 
 20579 = {
-	name = "Isleifur"
+	name = "Isleifur-ICE"
 	dynasty = 101891
 	martial = 5
 	diplomacy = 5
@@ -327,7 +327,7 @@
 }
 
 20581 = {
-	name = "Saemundr"
+	name = "Saemundur"
 	dynasty = 101892
 	martial = 7
 	diplomacy = 8
