@@ -305,7 +305,7 @@
 }
 
 20580 = {
-	name = "Sigfus"
+	name = "Sigfus-ICE"
 	dynasty = 101892
 	martial = 8
 	diplomacy = 8
