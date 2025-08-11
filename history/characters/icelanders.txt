@@ -1,0 +1,654 @@
+﻿
+
+144632 = {
+	name = "Teitur"
+	dynasty = 101891
+	religion = "catholic"
+	culture = "icelandic"
+	father = 20579
+	1041.1.1 = {
+		birth = "1041.1.1"
+	}
+	1111.1.1 = {
+		death = "1111.1.1"
+	}
+}
+
+144633 = {
+	name = "Hallur"
+	dynasty = 101891
+	religion = "catholic"
+	culture = "icelandic"
+	father = 144632
+	1075.1.1 = {
+		birth = "1075.1.1"
+	}
+	1150.1.1 = {
+		death = "1150.1.1"
+	}
+}
+
+144647 = {
+	name = "Gissur"
+	dynasty = 101891
+	religion = "catholic"
+	culture = "icelandic"
+	father = 202012
+	1208.1.1 = {
+		birth = "1208.1.1"
+	}
+	1268.1.12 = {
+		death = "1268.1.12"
+	}
+}
+
+200003 = {
+	name = "StyrbjO_rn"
+	# AKA: Styrbjorn
+	dynasty = 100282
+	martial = 5
+	diplomacy = 6
+	intrigue = 5
+	stewardship = 7
+	religion = "catholic"
+	culture = "norwegian"
+	1165.1.1 = {
+		birth = "1165.1.1"
+	}
+	1215.1.1 = {
+		death = "1215.1.1"
+	}
+}
+
+20016 = {
+	name = "Lodin"
+	dynasty = 100268
+	martial = 6
+	diplomacy = 4
+	intrigue = 5
+	stewardship = 5
+	religion = "catholic"
+	culture = "norwegian"
+	trait = zealous
+	trait = education_learning_2
+	1039.1.1 = {
+		birth = "1039.1.1"
+	}
+	1089.1.1 = {
+		death = "1089.1.1"
+	}
+}
+
+20017 = {
+	name = "Jon"
+	dynasty = 100270
+	martial = 6
+	diplomacy = 7
+	intrigue = 7
+	stewardship = 4
+	religion = "catholic"
+	culture = "norwegian"
+	trait = education_martial_3
+	1039.1.1 = {
+		birth = "1039.1.1"
+	}
+	1089.1.1 = {
+		death = "1089.1.1"
+	}
+}
+
+20018 = {
+	name = "Torgeir"
+	dynasty = 100034
+	martial = 8
+	diplomacy = 7
+	intrigue = 8
+	stewardship = 7
+	religion = "catholic"
+	culture = "norwegian"
+	trait = education_martial_3
+	1039.1.1 = {
+		birth = "1039.1.1"
+	}
+	1089.1.1 = {
+		death = "1089.1.1"
+	}
+}
+
+20019 = {
+	name = "Finn"
+	dynasty = 100284
+	martial = 5
+	diplomacy = 4
+	intrigue = 4
+	stewardship = 8
+	religion = "catholic"
+	culture = "norwegian"
+	trait = zealous
+	trait = education_learning_2
+	1039.1.1 = {
+		birth = "1039.1.1"
+	}
+	1089.1.1 = {
+		death = "1089.1.1"
+	}
+}
+
+200601 = {
+	name = "Ulfhilde"
+	female = yes
+	martial = 7
+	diplomacy = 2
+	intrigue = 10
+	stewardship = 5
+	religion = "catholic"
+	culture = "norwegian"
+	trait = deceitful
+	trait = greedy
+	trait = education_intrigue_3
+	1095.1.1 = {
+		birth = "1095.1.1"
+	}
+	1148.1.1 = {
+		death = "1148.1.1"
+	}
+}
+
+202001 = {
+	name = "MagnU_s"
+	dynasty = 100268
+	martial = 6
+	diplomacy = 5
+	intrigue = 4
+	stewardship = 7
+	religion = "catholic"
+	culture = "norwegian"
+	trait = education_martial_2
+	1150.1.1 = {
+		birth = "1150.1.1"
+	}
+	1200.1.1 = {
+		death = "1200.1.1"
+	}
+}
+
+202002 = {
+	name = "Skofte"
+	dynasty = 100269
+	martial = 7
+	diplomacy = 6
+	intrigue = 7
+	stewardship = 6
+	religion = "catholic"
+	culture = "norwegian"
+	trait = lazy
+	trait = honest
+	trait = greedy
+	trait = ill
+	trait = education_diplomacy_3
+	1150.1.1 = {
+		birth = "1150.1.1"
+	}
+	1200.1.1 = {
+		death = "1200.1.1"
+	}
+}
+
+202003 = {
+	name = "Audun"
+	dynasty = 100270
+	martial = 4
+	diplomacy = 8
+	intrigue = 7
+	stewardship = 5
+	religion = "catholic"
+	culture = "norwegian"
+	trait = brave
+	trait = education_martial_3
+	1150.1.1 = {
+		birth = "1150.1.1"
+	}
+	1200.1.1 = {
+		death = "1200.1.1"
+	}
+}
+
+202004 = {
+	name = "Haakon"
+	dynasty = 100271
+	martial = 6
+	diplomacy = 7
+	intrigue = 5
+	stewardship = 5
+	religion = "catholic"
+	culture = "norwegian"
+	trait = temperate
+	trait = education_intrigue_1
+	1150.1.1 = {
+		birth = "1150.1.1"
+	}
+	1200.1.1 = {
+		death = "1200.1.1"
+	}
+}
+
+202005 = {
+	name = "Jon"
+	dynasty = 499
+	martial = 6
+	diplomacy = 4
+	intrigue = 5
+	stewardship = 7
+	religion = "catholic"
+	culture = "norwegian"
+	trait = zealous
+	trait = diligent
+	trait = education_learning_2
+	trait = ambitious
+	father = 202512
+	1150.1.1 = {
+		birth = "1150.1.1"
+	}
+	1200.1.1 = {
+		death = "1200.1.1"
+	}
+}
+
+202006 = {
+	name = "Kaare"
+	dynasty = 468
+	martial = 6
+	diplomacy = 4
+	intrigue = 8
+	stewardship = 5
+	religion = "catholic"
+	culture = "norwegian"
+	trait = education_martial_2
+	1150.1.1 = {
+		birth = "1150.1.1"
+	}
+	1200.1.1 = {
+		death = "1200.1.1"
+	}
+}
+
+202007 = {
+	name = "Einar"
+	dynasty = 100275
+	martial = 5
+	diplomacy = 7
+	intrigue = 8
+	stewardship = 8
+	religion = "catholic"
+	culture = "norwegian"
+	trait = arbitrary
+	trait = cynical
+	trait = education_martial_3
+	1150.1.1 = {
+		birth = "1150.1.1"
+	}
+	1200.1.1 = {
+		death = "1200.1.1"
+	}
+}
+
+202008 = {
+	name = "Torstein"
+	dynasty = 100276
+	martial = 8
+	diplomacy = 6
+	intrigue = 5
+	stewardship = 4
+	religion = "catholic"
+	culture = "norwegian"
+	trait = education_learning_2
+	1150.1.1 = {
+		birth = "1150.1.1"
+	}
+	1200.1.1 = {
+		death = "1200.1.1"
+	}
+}
+
+202010 = {
+	name = "Bjorn"
+	dynasty = 100278
+	martial = 4
+	diplomacy = 6
+	intrigue = 5
+	stewardship = 6
+	religion = "catholic"
+	culture = "norwegian"
+	trait = brave
+	trait = education_martial_3
+	1150.1.1 = {
+		birth = "1150.1.1"
+	}
+	1200.1.1 = {
+		death = "1200.1.1"
+	}
+}
+
+202011 = {
+	name = "Gissur"
+	dynasty = 101891
+	martial = 6
+	diplomacy = 8
+	intrigue = 5
+	stewardship = 5
+	religion = "catholic"
+	culture = "icelandic"
+	trait = deceitful
+	trait = education_diplomacy_2
+	father = 144633
+	1125.1.1 = {
+		birth = "1125.1.1"
+	}
+	1206.6.27 = {
+		death = "1206.6.27"
+	}
+}
+
+202012 = {
+	name = "Thorvaldur"
+	dynasty = 101891
+	martial = 6
+	diplomacy = 8
+	intrigue = 6
+	stewardship = 5
+	religion = "catholic"
+	culture = "icelandic"
+	trait = generous
+	trait = calm
+	trait = education_learning_2
+	father = 202011
+	1155.1.1 = {
+		birth = "1155.1.1"
+	}
+	1235.9.1 = {
+		death = "1235.9.1"
+	}
+}
+
+202014 = {
+	name = "Snorri"
+	dynasty = 100001
+	martial = 6
+	diplomacy = 5
+	intrigue = 6
+	stewardship = 6
+	religion = "catholic"
+	culture = "icelandic"
+	trait = diligent
+	trait = education_stewardship_2
+	1179.1.1 = {
+		birth = "1178.1.1"
+	}
+	1229.1.1 = {
+		death = "1229.1.1"
+	}
+}
+
+202018 = {
+	name = "ThorlA_kur"
+	# AKA: Thorlakur
+	dynasty = 101908
+	martial = 6
+	diplomacy = 6
+	intrigue = 9
+	stewardship = 7
+	religion = "catholic"
+	culture = "icelandic"
+	trait = chaste
+	trait = arrogant
+	trait = zealous
+	trait = education_learning_1
+	father = 202017
+	1133.1.1 = {
+		birth = "1133.1.1"
+	}
+	1183.1.1 = {
+		death = "1183.1.1"
+	}
+}
+
+202019 = {
+	name = "Ragnheid"
+	female = yes
+	martial = 4
+	diplomacy = 5
+	intrigue = 6
+	stewardship = 5
+	religion = "catholic"
+	culture = "icelandic"
+	trait = lustful
+	trait = gluttonous
+	trait = education_diplomacy_3
+	father = 202017
+	1155.1.1 = {
+		birth = "1155.1.1"
+	}
+	1205.1.1 = {
+		death = "1205.1.1"
+	}
+}
+
+202023 = {
+	name = "Sigrid"
+	female = yes
+	dynasty = 101892
+	martial = 5
+	diplomacy = 8
+	intrigue = 7
+	stewardship = 8
+	religion = "catholic"
+	culture = "icelandic"
+	trait = education_intrigue_1
+	father = 202024
+	mother = 202025
+	1151.1.1 = {
+		birth = "1151.1.1"
+	}
+	1183.1.1 = {
+		death = "1183.1.1"
+	}
+}
+
+202024 = { #Icelandic
+	name = "JO_n"
+	# AKA: Jon
+	dynasty = 101892
+	martial = 6
+	diplomacy = 8
+	intrigue = 7
+	stewardship = 8
+	religion = "catholic"
+	culture = "icelandic"
+	trait = calm
+	trait = just
+	trait = education_learning_2
+	father = 202026
+	mother = 202027
+	1124.1.1 = {
+		birth = "1124.1.1"
+	}
+	1146.1.1 = {
+		add_spouse = 202025
+	}
+	1171.1.1 = {
+		add_spouse = 202019
+	}
+	1197.1.1 = {
+		death = "1197.1.1"
+	}
+}
+
+202025 = {
+	name = "Halldora"
+	female = yes
+	martial = 5
+	diplomacy = 8
+	intrigue = 7
+	stewardship = 8
+	religion = "catholic"
+	culture = "icelandic"
+	trait = education_intrigue_1
+	1130.1.1 = {
+		birth = "1130.1.1"
+	}
+	1166.1.1 = {
+		death = "1166.1.1"
+	}
+}
+
+202026 = {
+	name = "Loftur"
+	dynasty = 101892
+	martial = 6
+	diplomacy = 5
+	intrigue = 7
+	stewardship = 6
+	religion = "catholic"
+	culture = "icelandic"
+	trait = education_learning_3
+	father = 20581
+	1076.1.1 = {
+		birth = "1076.1.1"
+	}
+	1120.1.1 = {
+		add_spouse = 202027
+	}
+	1133.1.1 = {
+		death = "1133.1.1"
+	}
+}
+
+202027 = {
+	name = "Tora"
+	female = yes
+	dynasty = 499
+	martial = 5
+	diplomacy = 8
+	intrigue = 7
+	stewardship = 8
+	religion = "catholic"
+	culture = "norwegian"
+	trait = legitimized_bastard
+	trait = education_intrigue_1
+	father = 202511
+	1100.1.1 = {
+		birth = "1100.1.1"
+	}
+	1167.1.1 = {
+		death = "1167.1.1"
+	}
+}
+
+202028 = {
+	name = "SE_mund"
+	# AKA: Saemund
+	dynasty = 101892
+	martial = 4
+	diplomacy = 7
+	intrigue = 5
+	stewardship = 6
+	religion = "catholic"
+	culture = "icelandic"
+	trait = humble
+	trait = honest
+	trait = calm
+	trait = education_learning_3
+	father = 202024
+	mother = 202025
+	1154.1.1 = {
+		birth = "1154.1.1"
+	}
+	1222.11.7 = {
+		death = "1222.11.7"
+	}
+}
+
+202029 = {
+	name = "PA_ll"
+	# AKA: Pall
+	dynasty = 101892
+	martial = 6
+	diplomacy = 7
+	intrigue = 6
+	stewardship = 4
+	religion = "catholic"
+	culture = "icelandic"
+	trait = bastard
+	trait = honest
+	trait = chaste
+	trait = education_learning_4
+	father = 202024
+	mother = 202019
+	1170.1.1 = {
+		birth = "1170.1.1"
+	}
+	1210.1.1 = {
+		death = "1210.1.1"
+	}
+}
+
+
+20579 = {
+	name = "Isleifur"
+	dynasty = 101891
+	martial = 5
+	diplomacy = 5
+	intrigue = 5
+	stewardship = 5
+	religion = "catholic"
+	culture = "icelandic"
+	trait = diligent
+	trait = education_intrigue_2
+	1006.1.1 = {
+		birth = "1006.1.1"
+	}
+	1080.6.5 = {
+		death = "1080.6.5"
+	}
+}
+
+20580 = {
+	name = "Sigfus"
+	dynasty = 101892
+	martial = 8
+	diplomacy = 8
+	intrigue = 4
+	stewardship = 5
+	religion = "catholic"
+	culture = "icelandic"
+	trait = greedy
+	trait = arbitrary
+	trait = calm
+	trait = honest
+	trait = education_learning_2
+	1038.1.1 = {
+		birth = "1038.1.1"
+	}
+	1088.1.1 = {
+		death = "1088.1.1"
+	}
+}
+
+20581 = {
+	name = "Saemundr"
+	dynasty = 101892
+	martial = 7
+	diplomacy = 8
+	intrigue = 7
+	stewardship = 7
+	religion = "catholic"
+	culture = "icelandic"
+	trait = education_learning_2
+	father = 20580
+	1056.1.1 = {
+		birth = "1056.1.1"
+	}
+	1120.1.1 = {
+		death = "1120.1.1"
+	}
+}
