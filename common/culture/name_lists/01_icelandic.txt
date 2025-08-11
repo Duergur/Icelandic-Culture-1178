@@ -210,7 +210,7 @@
 	#Úlfdís Úlfheiður Úlfhildur Úlfrún Úrsúla
 	#Valdís Valey Védís Vigdís Vilborg Vildís Viktoría Vilgerður Vilhelmína Vordís 
 	#Ylfa Ylja Ylva Yrsa Yrja 
-	#Ýr
+	'Yr
 	#Þorlaug Þjóðbjörg Þjóðhildur Þóra Þóranna Þórbjörg Þórdís Þórey Þorfinna Þórfríður Þorgerður Þórgunnur Þórhanna Þórhildur Þórkatla Þórlaug Þórunn Þórveig Þrá Þórvör Þrúður Þúfa Þuríður Þórvör 
 	#Æsa Ævör Æsgerður Ægileif 
 	#Ögmunda Ölveig Örk Ösp Ölrún
