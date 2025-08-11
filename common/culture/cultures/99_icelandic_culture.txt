@@ -2,7 +2,7 @@
 	color = { 2 82 156 }
 	created = 930.1.1
 	parents = { norse gaelic }
-	
+	head_determination = head_determination_domain
 	ethos = ethos_stoic
 	heritage = heritage_north_germanic
 	language = language_norse

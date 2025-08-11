@@ -181,39 +181,39 @@
 	#Valdimar Végestur Vestgeir  Valtýr Vébjörn Vésteinn Veturliði Viðar Víðir Víglundur Vígmundur Völundur  Valmundur Vigfús Vignir Viktor Völundur Vörður 
 	#Ylur Ymir Yngvar Yngvi Yrkill 
 	#Ýmir 
-	Th'or Th'orkell #Þórður Þangbrandur Þengill Þiðrik Þjálfi Þórarinn Þórberg Þorbergur Þórbergur Þórbjarni Þorbjörn Þórbjörn Þorbrandur Þórður Þorfinnur Þorgarður Þorgautur Þorgeir Þorgestur Þorgils Þorgísl Þorgnýr Þórgrímur Þórhannes Þórhallur Þorlákur Þorleifur Þórleifur Þormóður Þórormur Þorri Þorsteinn Þórsteinn Þorvaldur Þráinn Þrándur Þröstur Þyrnir 
+	Th'or Th'orkell Th'or-dur Thangbrandur Thengill Thi-drik Thj'alfi Th'orarinn Th'orberg Th'orbergur Thorbergur Th'orbjarni Thorbj-orn Th'orbj-orn Thorbrandur Thorfinnur Thorgar-dur Thorgautur Thorgeir Thorgestur Thorgils-ICE Thorg'isli Thorgn'yr Th'orgr'imur Th'orhannes Th'orhallur Thorl'akur Thorleifur Th'orleifur Thorm'o-dur Th'orormur Thorri Thorsteinn Th'orsteinn Thorvaldur-ICE Thr'ainn Thr'andur Thr-ostur Thyrnir 
 	Aegir Aevar
 	}
 	female_names = {
-	Auður Aðalbjörg Aðaldís Aðalfríður Aðalheiður Aðalveig 	Agla Agnes Alba Alda Aldís Alfa Alma Alva Amalía Amanda Amelía Amilía Andrea Aníta Anna Ardís Arey Arinbjörg Arnbjörg Arnborg Arndís Arney Arnfinna Arnfríður Arnhildur Arnheiður Arnlaug Arnþóra Arnþrúður Auðbjörg Auðbjört Auðdís Auðlín Auðný Auðrún 
-	Ágústa Álfdís Álfey Álfgerður Álfheiður Álfhildur Álfrún Álfsól Árbjörg Árbjört Árdís Árlaug Árna Árndís Árney Árnheiður Árnína Árný Ársæl Ársól Árveig Árþóra Ása Ásbjörg Ásdís Ásfríður Ásgerður Áshildur Áslaug Ásleif Ásrós Ásrún Ásta Ástbjörg Ástdís Ástfríður Ástgerður Ásthildur Ástríður Ástrós Ástrún Ástveig Ástþrúður Ásvör 
-	Baldey Baldrún Bára Bergdís Bergey Bergfríður Berghildur Berglaug Bergljót Berglind Bergrós Bergrún Bergdís Birgitta Birna Birta Bjargey Bjargheiður Bjarghildur Bjarkey Bjarndís Bjarney Bjarnfríður Bjarnheiður Bjarnhildur Bjarnþóra Bjarnþrúður Bjartey Björg Björgheiður Björghildur Björk Björt Boghildur Borg Borghildur Braghildur Braga Bríet Bryndís Brynhildur Brynja 
-	Daðey Dagbjörg Dagbjört Dagfríður Dagheiður Dagmar Dagmey Dagný Dagrún Daldís Dalrós Daney Danfríður Danheiður Danhildur Diljá Dimma Dís Dimmey Dísa Dögg Dóa Dómhildur Drífa Dröfn Dúfa Dúna Dýrborg Dýrfinna Dýrleif 
-	Edda Eiðný Eiðunn Eik Eilíf Einrún Eir Eirný Eirdís Eirún Eivör Eldey Eldbjörg Elfa Elín Elíná Elínbjörg Elínbjört Elínborg Elínrós Elísa Elísabet Ellen Elley Ellisif Ellý Elsa Elsabet Elsý Embla Emilíanna Emma Engilbjört Engilráð Enja Enóla Erlín Erna Esja Ester Eva Eybjörg Eydís Eyfríður Eygló Eyja Eyleif Eyrós Eyrún Eyvör Eyþrúður Eyþóra 
-	Fanndís Fanney Fannlaug Fía Fífa Finnbjörg Finnbjörk Finnborg Finndís Fjóla Fönn Frán Freyja Fríða 
-	Gauthildur Grélöð Geirbjörg Geirdís Geirhildur Geirlaug Geirþrúður Gerða Gerður Gestheiður Gestný Gestrún Gígja Gísley Gló Glóð Glódís Glóey Góa Gríma Grímey Grímheiður Grímhildur Gróa Guðbjörg Guðbjört Guðdís Guðfinna	Guðfríður Guðlaug Guðmunda Guðný Guðrún Guðríður Gullbrá Gunnbjörg Gunndís Gunnfinna Gunnlaug Gunnrún Gunnur Gunnvör Gunnveig Gunnþórunn Gyða Gytta 
-	Haddý Hafbjörg Hafborg Hafdís Hafrós Hafrún Hafþóra Halla Hallbera Hallborg Halldís Halldóra Hallfríður Hallgerður Hallgunnur Hallrún Hallveig Hallvör Hanna Harpa Heba Heiða Heiðbjörg Heiðbjörk Heiðbjört Heiðbrá Heiðdís Heiðrós Heiður Heiðrún Hekla Helga Hella Hera Herdís Herborg Herbjört Herfríður Herlaug Hervör Herþrúður Hilda Hildibjörg Hildigerður Hildigunnur Hildur Hildisif Hilma Hjálmrós Hjálmdís Hjaltey Hjördís Hjörfríður Hjörleif Hlaðgerður Hlédís Hlín Hlíf Hólmbjörg Hólmdís Hólmfríður Hrafnborg Hrafndís Hrafngerður Hrafnheiður Hrafnhildur Hrafnlaug Hrafnrún Hrafntinna Hraundís Hrefna Hreindís Hrólfdís Hrönn Hrund Hugdís Hugljúf Hugrún Hulda Huldís Huldrún Húndís Húngerður Húnbjörg Hvönn 
-	Iða Iðunn Inga Ingdís Ingey Ingheiður Ingibjörg Ingibjört Ingiborg Ingifríður Ingigerður Ingimunda Ingiveig Ingunn Ingveldur Irja Irma Irpa 
-	Ír Írena Íris Írunn Ísabella Ísadóra Ísafold Ísbjörg Ísdís Ísey Ísfold Ísgerður	Íshildur Íslaug Ísleif Ísól Ísold Ísrún Ísveig Íva 
-	Járnbrá Járngerður Jarþrúður Jódís Jófríður Jökla Jökulrós Jóna Jónanna Jónasína Jónbjörg Jónbjört Jóndís Jóney Jónfríður Jónhildur Jónína Jóra Jórlaug Jórunn Jósefína Júlía Júlíanna Júnía 
-	Kaðlín Kaja Kara Karen Karítas Karlotta Karólína Katla Katrín Ketilbjörg Ketilfríður Ketilríður Kirstín Kjalvör Klara Kolbjörg Kolbrá Kolbrún Koldís Kolfinna Kolfreyja Kolka Kráka Kría Kristbjörg Kristborg Kristey Kristín Kristný Kristrún Kristrós Kristveig 
-	Laugey Lauga	Laufey Laufheiður Laufhildur Lea Líf Lífdís Lilja Linda Líney Lísa Ljósbjörg Ljósbrá Lóa Loftveig Logey Lotta Lovísa Lukka Lyngheiður
-	Magndís Magðalena Magnea Magney Magnfríður Magnhildur Maísól Málfríður Málhildur Málmfríður Máney Marfríður Margrét Margunnur María Maríuerla Mía Marselína Marsibil Marta Matthildur Melrós Mist Mjalldís Mjallhvít Mjöll Móeiður Móey Móheiður Mörk Mýra 
-	Nanna Narfey Lauga Náttsól Nína Nótt Nýbjörg 
-	Odda Oddbjörg Oddfreyja Oddfríður Oddhildur Oddlaug Oddný Oddrún Oddveig Oddvör Ormheiður Ormhildur Otkatla
-	Ólafía Ólína Ólöf Ósk 
-	Pála Páldís Pálfríður Pálína Pálrún Perla 
-	Rósanna Rannveig Ráðhildur Rafney Rafnhildur Ragna Ragnbjörg Ragney Ragnfríður Ragnheiður Ragnhildur Rakel Rán Rannveig Reyndís Reynheiður Ríkey Rögn Rökkva Röskva Rósamunda Rósbjörg Rósborg Rósey Róshildur Róslind Rún Rúndís Rut 
-	Sæbjörg Silja Sæhildur Sæbjört Sædís Sæfríður Sæhildur Sælaug Sæmunda Sæsól Sæunn Sævör Saga Salbjörg Saldís Salka Sandra Sara Selma Sesselja Sía Sif Sigdís Sigfríður Sigmunda Signý Sigríður Sigrún Sigurást Sigurbjörg Sigurdís Sigurósk Sigurrós Sigþóra Silfrún Silvía "Silvía Nótt" Sirrý Sjöfn Skuld Snæbjört Snæbjörg Snæbrá Snæborg Snædís Snæfríður Snælaug Snærós Snærún Snjófríður Snjólaug Snót Soffía Sól Sólbjörg Sólbjört Sólborg Sólbrá Sólrún Sóldís Sóley Sólhildur Sólveig Stefanía Steingerður Steinvör Steinunn Stígrún Stjarna Styrgerður Sunneva Svala Svanbjörg Svana Svanborg Svandís Svanfríður Svanheiður Svanhildur Svanhvít Svava Svafa Sveindís Sveinhildur Sveinlaug Svanþrúður 
-	Thelma Tinna Torfhildur Torfey Tófa 
-	Ugla Una Unnur Unndís Unnbjörg Urður
-	Úlfdís Úlfheiður Úlfhildur Úlfrún Úrsúla
-	Valdís Valey Védís Vigdís Vilborg Vildís Viktoría Vilgerður Vilhelmína Vordís 
-	Ylfa Ylja Ylva Yrsa Yrja 
-	Ýr
-	Þorlaug Þjóðbjörg Þjóðhildur Þóra Þóranna Þórbjörg Þórdís Þórey Þorfinna Þórfríður Þorgerður Þórgunnur Þórhanna Þórhildur Þórkatla Þórlaug Þórunn Þórveig Þrá Þórvör Þrúður Þúfa Þuríður Þórvör 
-	Æsa Ævör Æsgerður Ægileif 
-	Ögmunda Ölveig Örk Ösp Ölrún
+	#Auður Aðalbjörg Aðaldís Aðalfríður Aðalheiður Aðalveig 	Agla Agnes Alba Alda Aldís Alfa Alma Alva Amalía Amanda Amelía Amilía Andrea Aníta Anna Ardís Arey Arinbjörg Arnbjörg Arnborg Arndís Arney Arnfinna Arnfríður Arnhildur Arnheiður Arnlaug Arnþóra Arnþrúður Auðbjörg Auðbjört Auðdís Auðlín Auðný Auðrún 
+	#Ágústa Álfdís Álfey Álfgerður Álfheiður Álfhildur Álfrún Álfsól Árbjörg Árbjört Árdís Árlaug Árna Árndís Árney Árnheiður Árnína Árný Ársæl Ársól Árveig Árþóra Ása Ásbjörg Ásdís Ásfríður Ásgerður Áshildur Áslaug Ásleif Ásrós Ásrún Ásta Ástbjörg Ástdís Ástfríður Ástgerður Ásthildur Ástríður Ástrós Ástrún Ástveig Ástþrúður Ásvör 
+	#Baldey Baldrún Bára Bergdís Bergey Bergfríður Berghildur Berglaug Bergljót Berglind Bergrós Bergrún Bergdís Birgitta Birna Birta Bjargey Bjargheiður Bjarghildur Bjarkey Bjarndís Bjarney Bjarnfríður Bjarnheiður Bjarnhildur Bjarnþóra Bjarnþrúður Bjartey Björg Björgheiður Björghildur Björk Björt Boghildur Borg Borghildur Braghildur Braga Bríet Bryndís Brynhildur Brynja 
+	#Daðey Dagbjörg Dagbjört Dagfríður Dagheiður Dagmar Dagmey Dagný Dagrún Daldís Dalrós Daney Danfríður Danheiður Danhildur Diljá Dimma Dís Dimmey Dísa Dögg Dóa Dómhildur Drífa Dröfn Dúfa Dúna Dýrborg Dýrfinna Dýrleif 
+	#Edda Eiðný Eiðunn Eik Eilíf Einrún Eir Eirný Eirdís Eirún Eivör Eldey Eldbjörg Elfa Elín Elíná Elínbjörg Elínbjört Elínborg Elínrós Elísa Elísabet Ellen Elley Ellisif Ellý Elsa Elsabet Elsý Embla Emilíanna Emma Engilbjört Engilráð Enja Enóla Erlín Erna Esja Ester Eva Eybjörg Eydís Eyfríður Eygló Eyja Eyleif Eyrós Eyrún Eyvör Eyþrúður Eyþóra 
+	#Fanndís Fanney Fannlaug Fía Fífa Finnbjörg Finnbjörk Finnborg Finndís Fjóla Fönn Frán Freyja Fríða 
+	#Gauthildur Grélöð Geirbjörg Geirdís Geirhildur Geirlaug Geirþrúður Gerða Gerður Gestheiður Gestný Gestrún Gígja Gísley Gló Glóð Glódís Glóey Góa Gríma Grímey Grímheiður Grímhildur Gróa Guðbjörg Guðbjört Guðdís Guðfinna	Guðfríður Guðlaug Guðmunda Guðný Guðrún Guðríður Gullbrá Gunnbjörg Gunndís Gunnfinna Gunnlaug Gunnrún Gunnur Gunnvör Gunnveig Gunnþórunn Gyða Gytta 
+	#Haddý Hafbjörg Hafborg Hafdís Hafrós Hafrún Hafþóra Halla Hallbera Hallborg Halldís Halldóra Hallfríður Hallgerður Hallgunnur Hallrún Hallveig Hallvör Hanna Harpa Heba Heiða Heiðbjörg Heiðbjörk Heiðbjört Heiðbrá Heiðdís Heiðrós Heiður Heiðrún Hekla Helga Hella Hera Herdís Herborg Herbjört Herfríður Herlaug Hervör Herþrúður Hilda Hildibjörg Hildigerður Hildigunnur Hildur Hildisif Hilma Hjálmrós Hjálmdís Hjaltey Hjördís Hjörfríður Hjörleif Hlaðgerður Hlédís Hlín Hlíf Hólmbjörg Hólmdís Hólmfríður Hrafnborg Hrafndís Hrafngerður Hrafnheiður Hrafnhildur Hrafnlaug Hrafnrún Hrafntinna Hraundís Hrefna Hreindís Hrólfdís Hrönn Hrund Hugdís Hugljúf Hugrún Hulda Huldís Huldrún Húndís Húngerður Húnbjörg Hvönn 
+	#Iða Iðunn Inga Ingdís Ingey Ingheiður Ingibjörg Ingibjört Ingiborg Ingifríður Ingigerður Ingimunda Ingiveig Ingunn Ingveldur Irja Irma Irpa 
+	#Ír Írena Íris Írunn Ísabella Ísadóra Ísafold Ísbjörg Ísdís Ísey Ísfold Ísgerður	Íshildur Íslaug Ísleif Ísól Ísold Ísrún Ísveig Íva 
+	#Járnbrá Járngerður Jarþrúður Jódís Jófríður Jökla Jökulrós Jóna Jónanna Jónasína Jónbjörg Jónbjört Jóndís Jóney Jónfríður Jónhildur Jónína Jóra Jórlaug Jórunn Jósefína Júlía Júlíanna Júnía 
+	#Kaðlín Kaja Kara Karen Karítas Karlotta Karólína Katla Katrín Ketilbjörg Ketilfríður Ketilríður Kirstín Kjalvör Klara Kolbjörg Kolbrá Kolbrún Koldís Kolfinna Kolfreyja Kolka Kráka Kría Kristbjörg Kristborg Kristey Kristín Kristný Kristrún Kristrós Kristveig 
+	#Laugey Lauga	Laufey Laufheiður Laufhildur Lea Líf Lífdís Lilja Linda Líney Lísa Ljósbjörg Ljósbrá Lóa Loftveig Logey Lotta Lovísa Lukka Lyngheiður
+	#Magndís Magðalena Magnea Magney Magnfríður Magnhildur Maísól Málfríður Málhildur Málmfríður Máney Marfríður Margrét Margunnur María Maríuerla Mía Marselína Marsibil Marta Matthildur Melrós Mist Mjalldís Mjallhvít Mjöll Móeiður Móey Móheiður Mörk Mýra 
+	#Nanna Narfey Lauga Náttsól Nína Nótt Nýbjörg 
+	#Odda Oddbjörg Oddfreyja Oddfríður Oddhildur Oddlaug Oddný Oddrún Oddveig Oddvör Ormheiður Ormhildur Otkatla
+	#Ólafía Ólína Ólöf Ósk 
+	#Pála Páldís Pálfríður Pálína Pálrún Perla 
+	#Rósanna Rannveig Ráðhildur Rafney Rafnhildur Ragna Ragnbjörg Ragney Ragnfríður Ragnheiður Ragnhildur Rakel Rán Rannveig Reyndís Reynheiður Ríkey Rögn Rökkva Röskva Rósamunda Rósbjörg Rósborg Rósey Róshildur Róslind Rún Rúndís Rut 
+	#Sæbjörg Silja Sæhildur Sæbjört Sædís Sæfríður Sæhildur Sælaug Sæmunda Sæsól Sæunn Sævör Saga Salbjörg Saldís Salka Sandra Sara Selma Sesselja Sía Sif Sigdís Sigfríður Sigmunda Signý Sigríður Sigrún Sigurást Sigurbjörg Sigurdís Sigurósk Sigurrós Sigþóra Silfrún Silvía "Silvía Nótt" Sirrý Sjöfn Skuld Snæbjört Snæbjörg Snæbrá Snæborg Snædís Snæfríður Snælaug Snærós Snærún Snjófríður Snjólaug Snót Soffía Sól Sólbjörg Sólbjört Sólborg Sólbrá Sólrún Sóldís Sóley Sólhildur Sólveig Stefanía Steingerður Steinvör Steinunn Stígrún Stjarna Styrgerður Sunneva Svala Svanbjörg Svana Svanborg Svandís Svanfríður Svanheiður Svanhildur Svanhvít Svava Svafa Sveindís Sveinhildur Sveinlaug Svanþrúður 
+	#Thelma Tinna Torfhildur Torfey Tófa 
+	#Ugla Una Unnur Unndís Unnbjörg Urður
+	#Úlfdís Úlfheiður Úlfhildur Úlfrún Úrsúla
+	#Valdís Valey Védís Vigdís Vilborg Vildís Viktoría Vilgerður Vilhelmína Vordís 
+	#Ylfa Ylja Ylva Yrsa Yrja 
+	#Ýr
+	#Þorlaug Þjóðbjörg Þjóðhildur Þóra Þóranna Þórbjörg Þórdís Þórey Þorfinna Þórfríður Þorgerður Þórgunnur Þórhanna Þórhildur Þórkatla Þórlaug Þórunn Þórveig Þrá Þórvör Þrúður Þúfa Þuríður Þórvör 
+	#Æsa Ævör Æsgerður Ægileif 
+	#Ögmunda Ölveig Örk Ösp Ölrún
 	}
 	
 	dynasty_of_location_prefix = "dynnp_af"
