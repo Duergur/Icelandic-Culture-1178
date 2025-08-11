@@ -158,7 +158,7 @@
 	Axel-ICE Aron-ICE 'arni Ari-ICE Arnar-ICE Arn'or A-dalbergur A-dalbj-Orn A-dalsteinn Alfre-d  Almar Alrekur Andri-ICE Arnbj-Orn Arnar Arnaldur Arnfinnur Arngr'imur Arnlaugur Arnoddur Arn'ulfur Atli Au-dun 
 	'asbj-Orn 'asl'akur 'astr'ikur 'ast-P'or 'an
 	Baldur-ICE Bjartmar  B'ot'olfur Bj-Orn B'ar-dur Bjarmar Bjarnfre-dur Bjarki Bjarnh'e-dinn Bjarnleifur Bjarnsteinn Bj'olfur Bj-Org'olfur B-O-dvar Bolli Brandur Breki Brynjar Brynj'olfur Bragi-ICE
-	#Da-di Dagur Dalur Dav'i-d Dagfinnur Dan'iel Dufg'us Duf-Pakur D'yri  
+	Da-di Dagur Dalur Dav'i-d Dagfinnur Dan'iel Dufg'us Duf-Pakur D'yri  
 	#Eir'ikur El'is Elvar Erlendur Eyj'olfur Eysteinn Eyvindur Ey-P'or Eil'ifur
 	#Falur Fr'imann Fannar Fenrir F'ifill Finnbj-Orn Finnbogi Finnur Fjalar Fj-Olnir Fl'oki Freyr Fylkir Fr'o-di 
 	#Gabr'iel Gu-dmundur Gu-dbj-Orn Galdur Gar-dar Garpur Gaukur Gauti Geir G'isli Gissur Gl'umur Gn'upur Grettir Gr'imur Gunnar Guttormur Gylfi
