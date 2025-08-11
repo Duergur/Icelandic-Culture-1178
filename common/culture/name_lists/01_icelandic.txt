@@ -157,12 +157,12 @@
 	male_names = {
 	Axel-ICE Aron-ICE 'arni Ari-ICE Arnar-ICE Arn'or A-dalbergur A-dalbj-Orn A-dalsteinn Alfre-d  Almar Alrekur Andri-ICE Arnbj-Orn Arnar Arnaldur Arnfinnur Arngr'imur Arnlaugur Arnoddur Arn'ulfur Atli Au-dun 
 	'asbj-Orn 'asl'akur 'astr'ikur 'ast-P'or 'an
-	#Baldur Bjartmar  B'ot'olfur Bj-Orn B'ar-dur Bjarmar Bjarnfre-dur Bjarki Bjarnhé-dinn Bjarnleifur Bjarnsteinn Bj'olfur Bj-Org'olfur B-O-dvar Bolli Brandur Breki Brynjar Brynj'olfur Bragi
+	Baldur-ICE Bjartmar  B'ot'olfur Bj-Orn B'ar-dur Bjarmar Bjarnfre-dur Bjarki Bjarnh'e-dinn Bjarnleifur Bjarnsteinn Bj'olfur Bj-Org'olfur B-O-dvar Bolli Brandur Breki Brynjar Brynj'olfur Bragi-ICE
 	#Da-di Dagur Dalur Dav'i-d Dagfinnur Dan'iel Dufg'us Duf-Pakur D'yri  
 	#Eir'ikur El'is Elvar Erlendur Eyj'olfur Eysteinn Eyvindur Ey-P'or Eil'ifur
 	#Falur Fr'imann Fannar Fenrir F'ifill Finnbj-Orn Finnbogi Finnur Fjalar Fj-Olnir Fl'oki Freyr Fylkir Fr'o-di 
 	#Gabr'iel Gu-dmundur Gu-dbj-Orn Galdur Gar-dar Garpur Gaukur Gauti Geir G'isli Gissur Gl'umur Gn'upur Grettir Gr'imur Gunnar Guttormur Gylfi
-	#Hlynur Hilmar Haengur Hafberg Hafgr'imur Hafli-di Hafsteinn Haf-P'or H'akon H'alfd'an Hallbj-Orn Hjalti Hr'olfur Halld'or Hallgeir Hallgr'imur Hannes Hans Haraldur Hauksteinn Haukur H'avar-dur Hé-dinn Hei-dar Heimir Helgi Herj'olfur Hermann Hersteinn Hinrik Hj'almt'yr Hj'almur Hj'alm-P'or Hj-Orleifur Hj-Ortur Hj-Orvar Hnikar H'olmbert H'olmgeir Hrafn Hrafnbergur Hrafnkell Hreggvi-dur Hrei-dar Hringur Hr'oar Hr'oaldur Hr'objartur Hr'oi Hugi Huginn 
+	#Hlynur Hilmar Haengur Hafberg Hafgr'imur Hafli-di Hafsteinn Haf-P'or H'akon H'alfd'an Hallbj-Orn Hjalti Hr'olfur Halld'or Hallgeir Hallgr'imur Hannes Hans Haraldur Hauksteinn Haukur H'avar-dur H'e-dinn Hei-dar Heimir Helgi Herj'olfur Hermann Hersteinn Hinrik Hj'almt'yr Hj'almur Hj'alm-P'or Hj-Orleifur Hj-Ortur Hj-Orvar Hnikar H'olmbert H'olmgeir Hrafn Hrafnbergur Hrafnkell Hreggvi-dur Hrei-dar Hringur Hr'oar Hr'oaldur Hr'objartur Hr'oi Hugi Huginn 
 	#Indri-di Ingibergur Ingibjartur Ingimar Ingimundur Ingmar Ing'olfur Ingvaldur Ingvar Ingvi  
 	#'isak 'imi 'isid'or 'isleifur 'ivar 
 	#J'on J'ohann J'ohannes J'onas J'osafat J'atvar-dur Jens J'oakim J'oel J'omundur J'onatan J-Orundur J'os'ua Jarfi J'arns'i-da J'atmundur J-Okull J'ongeir J-Orfi J'ul'ian 
@@ -172,13 +172,13 @@
 	#Narfi Natan N'attfari N'attm-Or-dur N'atthrafn N'iels Nikul'as Nj'all Nj-Or-dur N-Okkvi Nor-dmann 
 	#Oddi Oddgeir Oddfreyr Oddbj-Orn Oddbergur Oddleifur Oddsteinn Odd-P'or Orri Ormur Ott'o
 	#'ofeigur 'olafur 'o-dinn 'ol'iver 'omar 'oskar 'osv'ifur 'ottar 'oraekja
-	#P'all Patrekur Pétur 
+	#P'all Patrekur P'etur 
 	#R'a-dvar-dur Reynir Refur Rafn Rafnkell Ragnar R'ikar-dur R'ikhar-dur R'obert R-Ognvaldur R-Ognvar R-Okkvi R'osinkrans R-Oskvi R'ud'olf R'unar Ran'ur Run'olfur R'urik 
-	#Snorri Sturla Stef'an Sigur-dur Sighvatur S'imon Svarth-Of-di Sindri Saemundur Steinr'ikur Saeberg Saebj-Orn Saemundur Saevar Sae-P'or Sigbjartur Sigbj-Orn Sigfinnur Sigf'us Siggeir Sigmar Sigmundur Sigtryggur Sigurbaldur Sigurj'on Sigur-P'or Skarphé-dinn Skeggi Skj-Oldur Sk'uli Sm'ari Snaebj-Orn Snae-P'or Snj'olfur S'olberg S-Oren Starka-dur St'igur Sturlaugur Styrbj-Orn Styrk'ar Styrmir Sumarli-di Svalur Svanur Svan-P'or Svavar Sveinbj-Orn Sveinn Sverrir  
+	#Snorri Sturla Stef'an Sigur-dur Sighvatur S'imon Svarth-Of-di Sindri Saemundur Steinr'ikur Saeberg Saebj-Orn Saemundur Saevar Sae-P'or Sigbjartur Sigbj-Orn Sigfinnur Sigf'us Siggeir Sigmar Sigmundur Sigtryggur Sigurbaldur Sigurj'on Sigur-P'or Skarph'e-dinn Skeggi Skj-Oldur Sk'uli Sm'ari Snaebj-Orn Snae-P'or Snj'olfur S'olberg S-Oren Starka-dur St'igur Sturlaugur Styrbj-Orn Styrk'ar Styrmir Sumarli-di Svalur Svanur Svan-P'or Svavar Sveinbj-Orn Sveinn Sverrir  
 	#Tumi Tj-Orvi Tj-Orfi T'omas Tristan Tryggvi Torfi Tarfur Teitur T'imon T'yr 
 	#Unnar Ubbi Unnsteinn 
-	#'ulfhé-dinn 'ulfgr'imur 'ulflj'otur 'ulfur 'ulrik 
-	#Valdimar Végestur Vestgeir  Valt'yr Vébj-Orn Vésteinn Veturli-di Vi-dar V'i-dir V'iglundur V'igmundur V-Olundur  Valmundur Vigf'us Vignir Viktor V-Olundur V-Or-dur 
+	#'ulfh'e-dinn 'ulfgr'imur 'ulflj'otur 'ulfur 'ulrik 
+	#Valdimar V'egestur Vestgeir  Valt'yr V'ebj-Orn V'esteinn Veturli-di Vi-dar V'i-dir V'iglundur V'igmundur V-Olundur  Valmundur Vigf'us Vignir Viktor V-Olundur V-Or-dur 
 	#Ylur Ymir Yngvar Yngvi Yrkill 
 	#'ymir 
 	Th'or Th'orkell Th'or-dur Thangbrandur Thengill Thi-drik Thj'alfi Th'orarinn Th'orberg Th'orbergur Thorbergur Th'orbjarni Thorbj-Orn Th'orbj-Orn Thorbrandur Thorfinnur Thorgar-dur Thorgautur Thorgeir Thorgestur Thorgils-ICE Thorg'isli Thorgn'yr Th'orgr'imur Th'orhannes Th'orhallur Thorl'akur Thorleifur Th'orleifur Thorm'o-dur Th'orormur Thorri Thorsteinn Th'orsteinn Thorvaldur-ICE Thr'ainn Thr'andur Thr-Ostur Thyrnir 
@@ -191,14 +191,14 @@
 	#Da-dey Dagbj-Org Dagbj-Ort Dagfr'i-dur Daghei-dur Dagmar Dagmey Dagn'y Dagr'un Dald'is Dalr'os Daney Danfr'i-dur Danhei-dur Danhildur Dilj'a Dimma D'is Dimmey D'isa D-Ogg D'oa D'omhildur Dr'ifa Dr-Ofn D'ufa D'una D'yrborg D'yrfinna D'yrleif 
 	#Edda Ei-dn'y Ei-dunn Eik Eil'if Einr'un Eir Eirn'y Eird'is Eir'un Eiv-Or Eldey Eldbj-Org Elfa El'in El'in'a El'inbj-Org El'inbj-Ort El'inborg El'inr'os El'isa El'isabet Ellen Elley Ellisif Ell'y Elsa Elsabet Els'y Embla Emil'ianna Emma Engilbj-Ort Engilr'a-d Enja En'ola Erl'in Erna Esja Ester Eva Eybj-Org Eyd'is Eyfr'i-dur Eygl'o Eyja Eyleif Eyr'os Eyr'un Eyv-Or Ey-Pr'u-dur Ey-P'ora 
 	#Fannd'is Fanney Fannlaug F'ia F'ifa Finnbj-Org Finnbj-Ork Finnborg Finnd'is Fj'ola F-Onn Fr'an Freyja Fr'i-da 
-	#Gauthildur Grél-O-d Geirbj-Org Geird'is Geirhildur Geirlaug Geir-Pr'u-dur Ger-da Ger-dur Gesthei-dur Gestn'y Gestr'un G'igja G'isley Gl'o Gl'o-d Gl'od'is Gl'oey G'oa Gr'ima Gr'imey Gr'imhei-dur Gr'imhildur Gr'oa Gu-dbj-Org Gu-dbj-Ort Gu-dd'is Gu-dfinna	Gu-dfr'i-dur Gu-dlaug Gu-dmunda Gu-dn'y Gu-dr'un Gu-dr'i-dur Gullbr'a Gunnbj-Org Gunnd'is Gunnfinna Gunnlaug Gunnr'un Gunnur Gunnv-Or Gunnveig Gunn-P'orunn Gy-da Gytta 
-	#Hadd'y Hafbj-Org Hafborg Hafd'is Hafr'os Hafr'un Haf-P'ora Halla Hallbera Hallborg Halld'is Halld'ora Hallfr'i-dur Hallger-dur Hallgunnur Hallr'un Hallveig Hallv-Or Hanna Harpa Heba Hei-da Hei-dbj-Org Hei-dbj-Ork Hei-dbj-Ort Hei-dbr'a Hei-dd'is Hei-dr'os Hei-dur Hei-dr'un Hekla Helga Hella Hera Herd'is Herborg Herbj-Ort Herfr'i-dur Herlaug Herv-Or Her-Pr'u-dur Hilda Hildibj-Org Hildiger-dur Hildigunnur Hildur Hildisif Hilma Hj'almr'os Hj'almd'is Hjaltey Hj-Ord'is Hj-Orfr'i-dur Hj-Orleif Hla-dger-dur Hléd'is Hl'in Hl'if H'olmbj-Org H'olmd'is H'olmfr'i-dur Hrafnborg Hrafnd'is Hrafnger-dur Hrafnhei-dur Hrafnhildur Hrafnlaug Hrafnr'un Hrafntinna Hraund'is Hrefna Hreind'is Hr'olfd'is Hr-Onn Hrund Hugd'is Huglj'uf Hugr'un Hulda Huld'is Huldr'un H'und'is H'unger-dur H'unbj-Org Hv-Onn 
+	#Gauthildur Gr'el-O-d Geirbj-Org Geird'is Geirhildur Geirlaug Geir-Pr'u-dur Ger-da Ger-dur Gesthei-dur Gestn'y Gestr'un G'igja G'isley Gl'o Gl'o-d Gl'od'is Gl'oey G'oa Gr'ima Gr'imey Gr'imhei-dur Gr'imhildur Gr'oa Gu-dbj-Org Gu-dbj-Ort Gu-dd'is Gu-dfinna	Gu-dfr'i-dur Gu-dlaug Gu-dmunda Gu-dn'y Gu-dr'un Gu-dr'i-dur Gullbr'a Gunnbj-Org Gunnd'is Gunnfinna Gunnlaug Gunnr'un Gunnur Gunnv-Or Gunnveig Gunn-P'orunn Gy-da Gytta 
+	#Hadd'y Hafbj-Org Hafborg Hafd'is Hafr'os Hafr'un Haf-P'ora Halla Hallbera Hallborg Halld'is Halld'ora Hallfr'i-dur Hallger-dur Hallgunnur Hallr'un Hallveig Hallv-Or Hanna Harpa Heba Hei-da Hei-dbj-Org Hei-dbj-Ork Hei-dbj-Ort Hei-dbr'a Hei-dd'is Hei-dr'os Hei-dur Hei-dr'un Hekla Helga Hella Hera Herd'is Herborg Herbj-Ort Herfr'i-dur Herlaug Herv-Or Her-Pr'u-dur Hilda Hildibj-Org Hildiger-dur Hildigunnur Hildur Hildisif Hilma Hj'almr'os Hj'almd'is Hjaltey Hj-Ord'is Hj-Orfr'i-dur Hj-Orleif Hla-dger-dur Hl'ed'is Hl'in Hl'if H'olmbj-Org H'olmd'is H'olmfr'i-dur Hrafnborg Hrafnd'is Hrafnger-dur Hrafnhei-dur Hrafnhildur Hrafnlaug Hrafnr'un Hrafntinna Hraund'is Hrefna Hreind'is Hr'olfd'is Hr-Onn Hrund Hugd'is Huglj'uf Hugr'un Hulda Huld'is Huldr'un H'und'is H'unger-dur H'unbj-Org Hv-Onn 
 	#I-da I-dunn Inga Ingd'is Ingey Inghei-dur Ingibj-Org Ingibj-Ort Ingiborg Ingifr'i-dur Ingiger-dur Ingimunda Ingiveig Ingunn Ingveldur Irja Irma Irpa 
 	#'ir 'irena 'iris 'irunn 'isabella 'isad'ora 'isafold 'isbj-Org 'isd'is 'isey 'isfold 'isger-dur	'ishildur 'islaug 'isleif 'is'ol 'isold 'isr'un 'isveig 'iva 
 	#J'arnbr'a J'arnger-dur Jar-Pr'u-dur J'od'is J'ofr'i-dur J-Okla J-Okulr'os J'ona J'onanna J'onas'ina J'onbj-Org J'onbj-Ort J'ond'is J'oney J'onfr'i-dur J'onhildur J'on'ina J'ora J'orlaug J'orunn J'osef'ina J'ul'ia J'ul'ianna J'un'ia 
 	#Ka-dl'in Kaja Kara Karen Kar'itas Karlotta Kar'ol'ina Katla Katr'in Ketilbj-Org Ketilfr'i-dur Ketilr'i-dur Kirst'in Kjalv-Or Klara Kolbj-Org Kolbr'a Kolbr'un Kold'is Kolfinna Kolfreyja Kolka Kr'aka Kr'ia Kristbj-Org Kristborg Kristey Krist'in Kristn'y Kristr'un Kristr'os Kristveig 
 	#Laugey Lauga	Laufey Laufhei-dur Laufhildur Lea L'if L'ifd'is Lilja Linda L'iney L'isa Lj'osbj-Org Lj'osbr'a L'oa Loftveig Logey Lotta Lov'isa Lukka Lynghei-dur
-	#Magnd'is Mag-dalena Magnea Magney Magnfr'i-dur Magnhildur Ma'is'ol M'alfr'i-dur M'alhildur M'almfr'i-dur M'aney Marfr'i-dur Margrét Margunnur Mar'ia Mar'iuerla M'ia Marsel'ina Marsibil Marta Matthildur Melr'os Mist Mjalld'is Mjallhv'it Mj-Oll M'oei-dur M'oey M'ohei-dur M-Ork M'yra 
+	#Magnd'is Mag-dalena Magnea Magney Magnfr'i-dur Magnhildur Ma'is'ol M'alfr'i-dur M'alhildur M'almfr'i-dur M'aney Marfr'i-dur Margr'et Margunnur Mar'ia Mar'iuerla M'ia Marsel'ina Marsibil Marta Matthildur Melr'os Mist Mjalld'is Mjallhv'it Mj-Oll M'oei-dur M'oey M'ohei-dur M-Ork M'yra 
 	#Nanna Narfey Lauga N'atts'ol N'ina N'ott N'ybj-Org 
 	#Odda Oddbj-Org Oddfreyja Oddfr'i-dur Oddhildur Oddlaug Oddn'y Oddr'un Oddveig Oddv-Or Ormhei-dur Ormhildur Otkatla
 	#'olaf'ia 'ol'ina 'ol-Of 'osk 
@@ -208,7 +208,7 @@
 	#Thelma Tinna Torfhildur Torfey T'ofa 
 	#Ugla Una Unnur Unnd'is Unnbj-Org Ur-dur
 	#'ulfd'is 'ulfhei-dur 'ulfhildur 'ulfr'un 'urs'ula
-	#Vald'is Valey Véd'is Vigd'is Vilborg Vild'is Viktor'ia Vilger-dur Vilhelm'ina Vord'is 
+	#Vald'is Valey V'ed'is Vigd'is Vilborg Vild'is Viktor'ia Vilger-dur Vilhelm'ina Vord'is 
 	#Ylfa Ylja Ylva Yrsa Yrja 
 	'Yr
 	#-Porlaug -Pj'o-dbj-Org -Pj'o-dhildur -P'ora -P'oranna -P'orbj-Org -P'ord'is -P'orey -Porfinna -P'orfr'i-dur -Porger-dur -P'orgunnur -P'orhanna -P'orhildur -P'orkatla -P'orlaug -P'orunn -P'orveig -Pr'a -P'orv-Or -Pr'u-dur -P'ufa -Pur'i-dur -P'orv-Or 
