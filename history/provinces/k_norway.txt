@@ -449,7 +449,7 @@
 	religion = norse_pagan
 	holding = tribal_holding
 	930.1.1 = {
-		culture = icelandic
+		culture = icelander
 	}
 	1000.1.1 = {
 		religion = catholic
@@ -471,7 +471,7 @@
 	religion = norse_pagan
 	holding = tribal_holding
 	930.1.1 = {
-		culture = icelandic
+		culture = icelander
 	}
 	1000.1.1 = {
 		religion = catholic
@@ -490,7 +490,7 @@
 	religion = norse_pagan
 	holding = tribal_holding
 	930.1.1 = {
-		culture = icelandic
+		culture = icelander
 	}
 	1000.1.1 = {
 		religion = catholic
@@ -506,7 +506,7 @@
 	religion = norse_pagan
 	holding = tribal_holding
 	930.1.1 = {
-		culture = icelandic
+		culture = icelander
 	}
 	1000.1.1 = {
 		religion = catholic

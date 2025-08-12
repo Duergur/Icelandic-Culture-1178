@@ -1,4 +1,4 @@
-﻿icelandic = {
+﻿icelander = {
 	color = { 2 82 156 }
 	created = 930.1.1
 	parents = { norse gaelic }
@@ -23,7 +23,7 @@
 		requires_dlc_flag = the_northern_lords
 		fallback = tradition_storytellers
 	}
-	name_list = name_list_icelandic
+	name_list = name_list_icelander
 	
 	coa_gfx = { norwegian_coa_gfx western_coa_gfx }
 	building_gfx = { western_building_gfx }

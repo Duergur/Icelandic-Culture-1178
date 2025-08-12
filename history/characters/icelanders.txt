@@ -4,7 +4,7 @@
 	name = "Teitur"
 	dynasty = 101891
 	religion = "catholic"
-	culture = "icelandic"
+	culture = "icelander"
 	father = 20579
 	1041.1.1 = {
 		birth = "1041.1.1"
@@ -18,7 +18,7 @@
 	name = "Hallur"
 	dynasty = 101891
 	religion = "catholic"
-	culture = "icelandic"
+	culture = "icelander"
 	father = 144632
 	1075.1.1 = {
 		birth = "1075.1.1"
@@ -32,7 +32,7 @@
 	name = "Gissur"
 	dynasty = 101891
 	religion = "catholic"
-	culture = "icelandic"
+	culture = "icelander"
 	father = 202012
 	1208.1.1 = {
 		birth = "1208.1.1"
@@ -50,7 +50,7 @@
 	intrigue = 5
 	stewardship = 5
 	religion = "catholic"
-	culture = "icelandic"
+	culture = "icelander"
 	trait = deceitful
 	trait = education_diplomacy_2
 	father = 144633
@@ -70,7 +70,7 @@
 	intrigue = 6
 	stewardship = 5
 	religion = "catholic"
-	culture = "icelandic"
+	culture = "icelander"
 	trait = generous
 	trait = calm
 	trait = education_learning_2
@@ -91,7 +91,7 @@
 	intrigue = 6
 	stewardship = 6
 	religion = "catholic"
-	culture = "icelandic"
+	culture = "icelander"
 	trait = diligent
 	trait = education_stewardship_2
 	1179.1.1 = {
@@ -111,7 +111,7 @@
 	intrigue = 9
 	stewardship = 7
 	religion = "catholic"
-	culture = "icelandic"
+	culture = "icelander"
 	trait = chaste
 	trait = arrogant
 	trait = zealous
@@ -133,7 +133,7 @@
 	intrigue = 6
 	stewardship = 5
 	religion = "catholic"
-	culture = "icelandic"
+	culture = "icelander"
 	trait = lustful
 	trait = gluttonous
 	trait = education_diplomacy_3
@@ -155,7 +155,7 @@
 	intrigue = 7
 	stewardship = 8
 	religion = "catholic"
-	culture = "icelandic"
+	culture = "icelander"
 	trait = education_intrigue_1
 	father = 202024
 	mother = 202025
@@ -176,7 +176,7 @@
 	intrigue = 7
 	stewardship = 8
 	religion = "catholic"
-	culture = "icelandic"
+	culture = "icelander"
 	trait = calm
 	trait = just
 	trait = education_learning_2
@@ -204,7 +204,7 @@
 	intrigue = 7
 	stewardship = 8
 	religion = "catholic"
-	culture = "icelandic"
+	culture = "icelander"
 	trait = education_intrigue_1
 	1130.1.1 = {
 		birth = "1130.1.1"
@@ -222,7 +222,7 @@
 	intrigue = 7
 	stewardship = 6
 	religion = "catholic"
-	culture = "icelandic"
+	culture = "icelander"
 	trait = education_learning_3
 	father = 20581
 	1076.1.1 = {
@@ -245,7 +245,7 @@
 	intrigue = 5
 	stewardship = 6
 	religion = "catholic"
-	culture = "icelandic"
+	culture = "icelander"
 	trait = humble
 	trait = honest
 	trait = calm
@@ -269,7 +269,7 @@
 	intrigue = 6
 	stewardship = 4
 	religion = "catholic"
-	culture = "icelandic"
+	culture = "icelander"
 	trait = bastard
 	trait = honest
 	trait = chaste
@@ -293,7 +293,7 @@
 	intrigue = 5
 	stewardship = 5
 	religion = "catholic"
-	culture = "icelandic"
+	culture = "icelander"
 	trait = diligent
 	trait = education_intrigue_2
 	1006.1.1 = {
@@ -312,7 +312,7 @@
 	intrigue = 4
 	stewardship = 5
 	religion = "catholic"
-	culture = "icelandic"
+	culture = "icelander"
 	trait = greedy
 	trait = arbitrary
 	trait = calm
@@ -334,7 +334,7 @@
 	intrigue = 7
 	stewardship = 7
 	religion = "catholic"
-	culture = "icelandic"
+	culture = "icelander"
 	trait = education_learning_2
 	father = 20580
 	1056.1.1 = {
