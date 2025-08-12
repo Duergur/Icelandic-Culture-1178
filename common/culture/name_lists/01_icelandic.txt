@@ -161,7 +161,7 @@
 	Da-di Dagur Dalur Dav'i-d Dagfinnur Dan'iel Dufg'us Duf-Pakur D'yri  
 	Eir'ikur El'is Elvar Erlendur Eyj'olfur Eysteinn-ICE Eyvindur Ey-P'or Eil'ifur
 	Falur Fr'imann Fannar Fenrir F'ifill Finnbj-Orn Finnbogi Finnur Fjalar Fj-Olnir Fl'oki Freyr-ICE Fylkir Fr'o-di 
-	#Gabr'iel Gu-dmundur Gu-dbj-Orn Galdur Gar-dar Garpur Gaukur Gauti Geir G'isli Gissur Gl'umur Gn'upur Grettir Gr'imur Gunnar Guttormur Gylfi
+	Gabr'iel Gu-dmundur Gu-dbj-Orn Galdur Gar-dar Garpur Gaukur Gauti Geir G'isli Gissur-ICE Gl'umur Gn'upur Grettir Gr'imur Gunnar Guttormur Gylfi
 	#Hlynur Hilmar Haengur Hafberg Hafgr'imur Hafli-di Hafsteinn Haf-P'or H'akon H'alfd'an Hallbj-Orn Hjalti Hr'olfur Halld'or Hallgeir Hallgr'imur Hannes Hans Haraldur Hauksteinn Haukur H'avar-dur H'e-dinn Hei-dar Heimir Helgi Herj'olfur Hermann Hersteinn Hinrik Hj'almt'yr Hj'almur Hj'alm-P'or Hj-Orleifur Hj-Ortur Hj-Orvar Hnikar H'olmbert H'olmgeir Hrafn Hrafnbergur Hrafnkell Hreggvi-dur Hrei-dar Hringur Hr'oar Hr'oaldur Hr'objartur Hr'oi Hugi Huginn 
 	#Indri-di Ingibergur Ingibjartur Ingimar Ingimundur Ingmar Ing'olfur Ingvaldur Ingvar Ingvi  
 	#'isak 'imi 'isid'or 'isleifur 'ivar 
