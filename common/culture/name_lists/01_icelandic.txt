@@ -172,7 +172,7 @@
 	Narfi-ICE Natan-ICE N'attfari N'attm-Or-dur N'atthrafn N'iels Nikul'as Nj'all Nj-Or-dur N-Okkvi Nor-dmann 
 	Oddi-ICE Oddgeir-ICE Oddfreyr-ICE Oddbj-Orn Oddbergur-ICE Oddleifur-ICE Oddsteinn-ICE Odd-P'or Orri-ICE Ormur-ICE Ott'o Oddur-ICE
 	'ofeigur 'olafur 'o-dinn 'ol'iver 'omar 'oskar 'osv'ifur 'ottar 'oraekja
-	#P'all Patrekur P'etur 
+	P'all Patrekur P'etur 
 	#R'a-dvar-dur Reynir Refur Rafn Rafnkell Ragnar R'ikar-dur R'ikhar-dur R'obert R-Ognvaldur R-Ognvar R-Okkvi R'osinkrans R-Oskvi R'ud'olf R'unar Ran'ur Run'olfur R'urik 
 	#Snorri Sturla Stef'an Sigur-dur Sighvatur S'imon Svarth-Of-di Sindri Saemundur Steinr'ikur Saeberg Saebj-Orn Saemundur Saevar Sae-P'or Sigbjartur Sigbj-Orn Sigfinnur Sigf'us Siggeir Sigmar Sigmundur Sigtryggur Sigurbaldur Sigurj'on Sigur-P'or Skarph'e-dinn Skeggi Skj-Oldur Sk'uli Sm'ari Snaebj-Orn Snae-P'or Snj'olfur S'olberg S-Oren Starka-dur St'igur Sturlaugur Styrbj-Orn Styrk'ar Styrmir Sumarli-di Svalur Svanur Svan-P'or Svavar Sveinbj-Orn Sveinn Sverrir  
 	#Tumi Tj-Orvi Tj-Orfi T'omas Tristan Tryggvi Torfi Tarfur Teitur T'imon T'yr 
