@@ -158,7 +158,7 @@
 	Axel-ICE Aron-ICE 'arni Ari-ICE Arnar-ICE Arn'or A-dalbergur A-dalbj-Orn A-dalsteinn Alfre-d  Almar Alrekur Andri-ICE Arnbj-Orn Arnar Arnaldur Arnfinnur Arngr'imur Arnlaugur Arnoddur Arn'ulfur Atli Au-dun 
 	'asbj-Orn 'asl'akur 'astr'ikur 'ast-P'or 'an
 	Baldur-ICE Bjartmar  B'ot'olfur Bj-Orn B'ar-dur Bjarmar Bjarnfre-dur Bjarki Bjarnh'e-dinn Bjarnleifur Bjarnsteinn Bj'olfur Bj-Org'olfur B-O-dvar Bolli Brandur Breki Brynjar Brynj'olfur Bragi-ICE
-	Da-di Dagur Dalur Dav'i-d Dagfinnur Dan'iel Dufg'us Duf-Pakur D'yri  
+	Da-di Dagur Dalur Dav'i-d Dagfinnur Dan'iel Dufg'us Duf-Pakur D'yri Drengur 
 	Eir'ikur El'is Elvar Erlendur Eyj'olfur Eysteinn-ICE Eyvindur Ey-P'or Eil'ifur
 	Falur Fr'imann Fannar Fenrir F'ifill Finnbj-Orn Finnbogi Finnur Fjalar Fj-Olnir Fl'oki Freyr-ICE Fylkir Fr'o-di 
 	Gabr'iel Gu-dmundur Gu-dbj-Orn Galdur Gar-dar Garpur Gaukur Gauti Geir-ICE G'isli Gissur-ICE Gl'umur Gn'upur Grettir-ICE Gr'imur Gunnar-ICE Guttormur Gylfi
@@ -168,7 +168,7 @@
 	J'on J'ohann J'ohannes J'onas J'osafat J'atvar-dur Jens-ICE J'oakim J'oel J'omundur J'onatan J-Orundur J'os'ua Jarfi J'arns'i-da J'atmundur J-Okull J'ongeir J-Orfi J'ul'ian 
 	Kolbeinn-ICE K'ari Karl-ICE Ketilbj-Orn Ketill-ICE Kjartan-ICE Kjarval Kjalar Klaengur Klemens Kn'utur Kn-Orr Ko-dr'an Kolbj-Orn Kolfinnur Kolgr'imur Kolmar Kolur Konr'a-d Korm'akur Kristberg Kristbj-Orn Kristfinnur Kristinn Kristj'an Kristleifur Krist'ofer Krummi Kveld'ulfur 
 	L'aki L'arus Laugi-ICE Leifur-ICE Logi-ICE Le'o Lj'otur Lj'ufur Lo-dmundur Loftur-ICE Loki-ICE L'u-dv'ik L'ukas 
-	#Magn'us Magn-P'or Mark'us Matt'ias Mikael "J'on M'uli" Margeir Melk'olmur M'imir Moli M-Or-dur Mosi M'uli Muninn Myrkt'yr M'yrkjartan  
+	Magn'us Magn-P'or Mark'us Matt'ias Mikael-ICE J'on_M'uli Margeir-ICE Melk'olmur M'imir Moli M-Or-dur Mosi-ICE M'uli Muninn-ICE Myrkt'yr M'yrkjartan  
 	#Narfi Natan N'attfari N'attm-Or-dur N'atthrafn N'iels Nikul'as Nj'all Nj-Or-dur N-Okkvi Nor-dmann 
 	#Oddi Oddgeir Oddfreyr Oddbj-Orn Oddbergur Oddleifur Oddsteinn Odd-P'or Orri Ormur Ott'o
 	#'ofeigur 'olafur 'o-dinn 'ol'iver 'omar 'oskar 'osv'ifur 'ottar 'oraekja
