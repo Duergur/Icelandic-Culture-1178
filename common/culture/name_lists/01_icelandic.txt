@@ -1,4 +1,4 @@
-﻿name_list_icelandic = {
+﻿name_list_icelander = {
 
 	cadet_dynasty_names = {
 		"dynn_StO_rr"
