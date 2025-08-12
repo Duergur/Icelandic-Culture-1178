@@ -474,47 +474,47 @@ Sigfus-ICE:1 "Sigfús"
 
 #Kvenkyn
 # A
-Au-dur-ICEs 
-A-dalbj-Org-ICEs 
-A-dald'is-ICEs 
-A-dalfr'i-dur-ICEs
-A-dalhei-dur-ICEs
-A-dalveig-ICEs 
-Agla-ICEs 
-Agnes-ICEs 
-Alba-ICEs 
-Alda-ICEs 
-Ald'is-ICEs 
-Alfa-ICEs 
-Alma-ICEs 
-Alva-ICEs 
-Amal'ia-ICEs
-Amanda-ICEs 
-Amel'ia-ICEs 
-Amil'ia-ICEs 
-Andrea-ICEs 
-An'ita-ICEs 
-Anna-ICEs 
-Ard'is-ICEs 
-Arey-ICEs 
-Arinbj-Org-ICEs 
-Arnbj-Org-ICEs 
-Arnborg-ICEs 
-Arnd'is-ICEs 
-Arney-ICEs 
-Arnfinna-ICEs 
-Arnfr'i-dur-ICEs 
-Arnhildur-ICEs 
-Arnhei-dur-ICEs 
-Arnlaug-ICEs 
-Arn-P'ora-ICEs 
-Arn-Pr'u-dur-ICEs 
-Au-dbj-Org-ICEs 
-Au-dbj-Ort-ICEs 
-Au-dd'is-ICEs 
-Au-dl'in-ICEs 
-Au-dn'y-ICEs 
-Au-dr'un-ICEs
+Au-dur-ICE:1 "Auður"
+A-dalbj-Org-ICE:1 "Aðalbjörg"
+A-dald'is-ICE:1 "Aðaldís"
+A-dalfr'i-dur-ICE:1 "Aðalfríður"
+A-dalhei-dur-ICE:1 "Aðalheiður"
+A-dalveig-ICE:1 "Aðalveig"
+Agla-ICE:1 "Agla"
+Agnes-ICE:1 "Agnes"
+Alba-ICE:1 "Alba"
+Alda-ICE:1 "Alda"
+Ald'is-ICE:1 "Aldís"
+Alfa-ICE:1 "Alfa"
+Alma-ICE:1 "Alma"
+Alva-ICE:1 "Alva"
+Amal'ia-ICE:1 "Amalía"
+Amanda-ICE:1 "Amanda"
+Amel'ia-ICE:1 "Amelía"
+Amil'ia-ICE:1 "Amilía"
+Andrea-ICE:1 "Andrea"
+An'ita-ICE:1 "Aníta"
+Anna-ICE:1 "Anna"
+Ard'is-ICE:1 "Ardís"
+Arey-ICE:1 "Arey"
+Arinbj-Org-ICE:1 "Arinbjörg" 
+Arnbj-Org-ICE:1 "Arnbjörg"
+Arnborg-ICE:1 "Arnborg"
+Arnd'is-ICE:1 "Arndís"
+Arney-ICE:1 "Arney"
+Arnfinna-ICE:1 "Arnfinna"
+Arnfr'i-dur-ICE:1 "Arnfríður"
+Arnhildur-ICE:1 "Arnhildur"
+Arnhei-dur-ICE:1 "Arnheiður"
+Arnlaug-ICE:1 "Arnlaug"
+Arn-P'ora-ICE:1 "Arnþóra"
+Arn-Pr'u-dur-ICE:1 "Arnþrúður"
+Au-dbj-Org-ICE:1 "Auðbjörg"
+Au-dbj-Ort-ICE:1 "Auðbjört"
+Au-dd'is-ICE:1 "Auðdís"
+Au-dl'in-ICE:1 "Auðlín"
+Au-dn'y-ICE:1 "Auðný"
+Au-dr'un-ICE:1 "Auðrún"
 
 # Y
 'Yr:1 "Ýr"
