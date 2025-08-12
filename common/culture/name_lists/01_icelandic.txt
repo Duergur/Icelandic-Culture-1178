@@ -167,7 +167,7 @@
 	'isak 'imi 'isid'or 'isleifur 'ivar 
 	J'on J'ohann J'ohannes J'onas J'osafat J'atvar-dur Jens-ICE J'oakim J'oel J'omundur J'onatan J-Orundur J'os'ua Jarfi J'arns'i-da J'atmundur J-Okull J'ongeir J-Orfi J'ul'ian 
 	Kolbeinn-ICE K'ari Karl-ICE Ketilbj-Orn Ketill-ICE Kjartan-ICE Kjarval Kjalar Klaengur Klemens Kn'utur Kn-Orr Ko-dr'an Kolbj-Orn Kolfinnur Kolgr'imur Kolmar Kolur Konr'a-d Korm'akur Kristberg Kristbj-Orn Kristfinnur Kristinn Kristj'an Kristleifur Krist'ofer Krummi Kveld'ulfur 
-	#L'aki L'arus Laugi Leifur Logi Le'o Lj'otur Lj'ufur Lo-dmundur Loftur Loki L'u-dv'ik L'ukas 
+	L'aki L'arus Laugi-ICE Leifur-ICE Logi-ICE Le'o Lj'otur Lj'ufur Lo-dmundur Loftur-ICE Loki-ICE L'u-dv'ik L'ukas 
 	#Magn'us Magn-P'or Mark'us Matt'ias Mikael "J'on M'uli" Margeir Melk'olmur M'imir Moli M-Or-dur Mosi M'uli Muninn Myrkt'yr M'yrkjartan  
 	#Narfi Natan N'attfari N'attm-Or-dur N'atthrafn N'iels Nikul'as Nj'all Nj-Or-dur N-Okkvi Nor-dmann 
 	#Oddi Oddgeir Oddfreyr Oddbj-Orn Oddbergur Oddleifur Oddsteinn Odd-P'or Orri Ormur Ott'o
