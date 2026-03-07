@@ -1,7 +1,9 @@
-version="1.3"
+version="1.3.2"
 tags={
-	"Culture"
+	"1.18 'Crane'"
+	"Gameplay"
 	"Historical"
 }
-name="Icelandic Culture"
-supported_version="1.16.2.3"
+name="Icelandic-Culture-1178"
+supported_version="1.18.3.1"
+remote_file_id="3345971845"
